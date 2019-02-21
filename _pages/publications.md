@@ -9,11 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=-rmSBisAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 ---
 Boljka, L., 2018: "Baroclinic and Barotropic Aspects of Wave-Mean Flow Interaction." <i>Ph.D. Thesis</i>, University of Reading, 212 pp.
 paperurl:http://centaur.reading.ac.uk/82282/1/21024384_Boljka_thesis.pdf
