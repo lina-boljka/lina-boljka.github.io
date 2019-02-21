@@ -24,7 +24,7 @@ Work experience
 * Autumn 2018 - present: Postdoctoral Fellow
   * Colorado State University
   * Duties included: Analysing reanalysis and idealised model output for better understanding of extratropical dynamics. 
-  * Supervisor: David W.J. Thompson, Thomas Birner
+  * Supervisors: David W.J. Thompson, Thomas Birner (LMU)
   
 Skills
 ======
