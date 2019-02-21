@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "LBoljka"
+  username               : &twitter "LBoljka"
 facebook:
   username               :
   app_id                 :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lina-boljka-2b068483/"
+  linkedin         : "https://www.linkedin.com/in/lina-boljka-2b068483"
   orcid            : "https://orcid.org/0000-0003-4197-9350"
   pinterest        :
   soundcloud       :
