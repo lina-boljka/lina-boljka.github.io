@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Meteorology with Geophysics, University of Ljubljana, 2012
+* M.Sc. in Atmosphere, Ocean and Climate, University of Reading, 2013
+* Ph.D. in Atmosphere, Ocean and Climate, University of Reading, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Atumn 2012- Summer 2013: Climatologist
+  * Slovenian Environment Agency
+  * Duties included: Analysing regional climate model data (CORDEX,ENSEMBLES) for regional climate change studies of Slovenia and Southeast Europe.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Autumn 2018 - present: Postdoctoral Fellow
+  * Colorado State University
+  * Duties included: Analysing reanalysis and idealised model output for better understanding of extratropical dynamics. 
+  * Supervisor: David W.J. Thompson, Thomas Birner
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analysing large datasets in various programming languages (Python, Matlab, R, C, NCL)
+* Running idealised atmospheric models (Held-Suarez type setup and aquaplanet setup)
+* Analysing regional climate model output.
 
 Publications
 ======
@@ -54,6 +50,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
