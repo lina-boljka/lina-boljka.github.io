@@ -11,6 +11,7 @@ author_profile: true
 ---
 Boljka, L., 2018: "Baroclinic and Barotropic Aspects of Wave-Mean Flow Interaction." <i>Ph.D. Thesis</i>, University of Reading, 212 pp.
 paperurl:http://centaur.reading.ac.uk/82282/1/21024384_Boljka_thesis.pdf
+<a href="http://centaur.reading.ac.uk/82282/1/21024384_Boljka_thesis.pdf">link</a>
 
 Boljka, L., T.G. Shepherd, and M. Blackburn, 2018: "On the Coupling between Barotropic and Baroclinic Modes of Extratropical Atmospheric Variability." <i>J. Atmos. Sci.</i>, 75, 1853–1871. 
 paperurl: https://doi.org/10.1175/JAS-D-17-0370.1.
