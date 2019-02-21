@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I currently work at the Department of Atmospheric Science, Colorado State University. My research focuses on climate dynamics, e.g. storm track dynamics, stratosphere-troposphere interactions, wave-mean flow interactions, and (regional) climate variability and change. My research interests also include asymptotic methods, model hierarchies, teleconnection patterns and subseasonal-to-seasonal prediction.
+I currently work at the Department of Atmospheric Science, Colorado State University. My research focuses on climate dynamics, e.g. storm track dynamics, stratosphere-troposphere interactions, wave-mean flow interactions, and (regional) climate variability and change. My research interests also include asymptotic methods, model hierarchies, teleconnection patterns, subseasonal-to-seasonal prediction, and interdisciplinary studies.
