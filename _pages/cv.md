@@ -28,7 +28,7 @@ Work experience
   
 Skills
 ======
-* Analysing large datasets in various programming languages (Python, Matlab, R, C, NCL)
+* Analysing large datasets in various programming languages (Python, Matlab, R, C, NCL etc.)
 * Running idealised atmospheric models (Held-Suarez type setup and aquaplanet setup)
 * Analysing regional climate model output.
 
