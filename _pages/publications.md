@@ -19,5 +19,6 @@ citation: 'Boljka, L., 2018: "Baroclinic and Barotropic Aspects of Wave-Mean Flo
 
 citation: 'Boljka, L., T.G. Shepherd, and M. Blackburn, 2018: "On the Coupling between Barotropic and Baroclinic Modes of Extratropical Atmospheric Variability." <i>J. Atmos. Sci.</i>, 75, 1853–1871, https://doi.org/10.1175/JAS-D-17-0370.1.'
 
-citation: 'Boljka, L. and T.G. Shepherd, 2018: "A Multiscale Asymptotic Theory of Extratropical Wave–Mean Flow Interaction." <i>J. Atmos. Sci.</i>, 75, 1833–1852, https://doi.org/10.1175/JAS-D-17-0307.1.'
+Boljka, L. and T.G. Shepherd, 2018: "A Multiscale Asymptotic Theory of Extratropical Wave–Mean Flow Interaction." <i>J. Atmos. Sci.</i>, 75, 1833–1852. 
+https://doi.org/10.1175/JAS-D-17-0307.1
 
