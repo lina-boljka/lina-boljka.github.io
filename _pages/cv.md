@@ -28,7 +28,7 @@ Work experience
   * Duties included: Analysing reanalysis and idealised model output for better understanding of extratropical dynamics. 
   * Supervisors: Prof. David W.J. Thompson, Prof. Thomas Birner (LMU)
   
-* Atumn 2012- Summer 2013: Climatologist
+* Atumn 2013- Summer 2014: Climatologist
   * Slovenian Environment Agency
   * Duties included: Analysing regional climate model data (CORDEX,ENSEMBLES) for regional climate change studies of Slovenia and Southeast Europe.
 
