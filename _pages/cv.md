@@ -39,6 +39,17 @@ Skills
 * Analysing regional climate model output.
 * Analysing subseasonal-to-seasonal (SubX) models
 
+Studentships, Awards and Certificates
+======
+* Sep 2016: Received a bursary by the University of Cambridge (Department of Applied Mathematics and Theoretical Physics) to attend the ‘Fluid Dynamics of Sustainability and the Environment’ Summer School (Cambridge, UK).
+* Nov 2015: Received ‘Preparing to Teach’ certificate (University of Reading).
+* Oct 2014 - Sep 2018: Awarded studentship for PhD degree by The University of Reading PhD Studentship (ERC grant).
+* Oct 2013: Awarded Sutcliffe Prize for Overall Achievement at MSc level (University of Reading).
+* Jun 2013 Received Met Office Forecasting Diploma (University of Reading).
+* Oct 2012 - Oct 2013 Awarded studentship for MSc degree by The Slovenian Scholarship Fund Ad Futura.
+* Oct 2009 - Jul 2012 Awarded Dean’s Award three consecutive years for outstanding academic achievement (University of Ljubljana).
+* Sep 2006 - Jul 2012 Awarded studentship for secondary school and undergraduate degree by The Municipality of Ljubljana Fund for talented students.
+
 Publications
 ======
   See Publications tab.
