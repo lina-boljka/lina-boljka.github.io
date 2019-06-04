@@ -26,7 +26,7 @@ Work experience
 * Autumn 2018 - present: Postdoctoral Fellow
   * Colorado State University
   * Duties included: Analysing reanalysis, S2S model output, and idealised model output for better understanding of extratropical dynamics. 
-  * Visiting scientist at Ludwig-Maximilians-Universität München (3-7/9/2018, 22/5-21/6/2019)
+  * Visiting scientist at Ludwig-Maximilians-Universität München. 
   * Supervisors: Prof. David W.J. Thompson, Prof. Thomas Birner (LMU)
   
 * Atumn 2013- Summer 2014: Climatologist
