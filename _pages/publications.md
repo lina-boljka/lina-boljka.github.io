@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=-rmSBisAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ---
-<b>Boljka, L.</b> and T.G. Shepherd, 2019: Multiscale extratropical barotropic variability on the subseasonal-to-seasonal timescale. <i>Submitted to QJRMS</i>. 
+<b>Boljka, L.</b> and T.G. Shepherd, 2019: Multiscale Extratropical Barotropic Variability on the Subseasonal-to-Seasonal Timescale. <i>Submitted to QJRMS</i>. 
 
 <b>Boljka, L.</b>, 2018: <a href="http://centaur.reading.ac.uk/82282/1/21024384_Boljka_thesis.pdf">Baroclinic and Barotropic Aspects of Wave-Mean Flow Interaction.</a> <i>Ph.D. Thesis</i>, University of Reading, 212 pp.
 
@@ -18,3 +18,4 @@ author_profile: true
 <b>Boljka, L.</b> and T.G. Shepherd, 2018: <a href="https://doi.org/10.1175/JAS-D-17-0307.1">A Multiscale Asymptotic Theory of Extratropical Wave–Mean Flow Interaction.</a> <i>J. Atmos. Sci.</i>, 75, 1833–1852. 
 
 Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/podrocja/podnebne_spremembe/porocilo_podnebne_spremembe1_2.pdf">Podnebne Spremembe v Sloveniji</a> (Climate Change in Slovenia). Governmental report, 18 pp.
+<b>Boljka, L.</b>, 2013: <a href="https://drive.google.com/open?id=0BznR66WFWnYJLTdENzZPcjdVQ3M">Identifying Slow Modes of Variability Using Wave Activity Theory.</a> <i>M.Sc. Thesis</i>, University of Reading, 77 pp.
