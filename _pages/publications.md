@@ -18,4 +18,5 @@ author_profile: true
 <b>Boljka, L.</b> and T.G. Shepherd, 2018: <a href="https://doi.org/10.1175/JAS-D-17-0307.1">A Multiscale Asymptotic Theory of Extratropical Wave–Mean Flow Interaction.</a> <i>J. Atmos. Sci.</i>, 75, 1833–1852. 
 
 Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/podrocja/podnebne_spremembe/porocilo_podnebne_spremembe1_2.pdf">Podnebne Spremembe v Sloveniji</a> (Climate Change in Slovenia). Governmental report, 18 pp.
+
 <b>Boljka, L.</b>, 2013: <a href="https://drive.google.com/open?id=0BznR66WFWnYJLTdENzZPcjdVQ3M">Identifying Slow Modes of Variability Using Wave Activity Theory.</a> <i>M.Sc. Thesis</i>, University of Reading, 77 pp.
