@@ -9,6 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=-rmSBisAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ---
+Johnson, M.S, J. Chen, M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, 2019: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Submitted to Encyclopedia of Sustainability Science and Technology</i>
+
 <b>Boljka, L.</b> and T.G. Shepherd, 2019: Multiscale Extratropical Barotropic Variability on the Subseasonal-to-Seasonal Timescale. <i>Submitted to QJRMS</i>. 
 
 <b>Boljka, L.</b>, 2018: <a href="http://centaur.reading.ac.uk/82282/1/21024384_Boljka_thesis.pdf">Baroclinic and Barotropic Aspects of Wave-Mean Flow Interaction.</a> <i>Ph.D. Thesis</i>, University of Reading, 212 pp.
