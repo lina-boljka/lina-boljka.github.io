@@ -13,7 +13,7 @@ author_profile: true
 
 Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2019: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Accepted by Encyclopedia of Sustainability Science and Technology</i>
 
-<b>Boljka, L.</b> and T.G. Shepherd, 2019: Multiscale Extratropical Barotropic Variability on the Subseasonal-to-Seasonal Timescale. <i>Accepted by QJRMS</i>. 
+<b>Boljka, L.</b> and T.G. Shepherd, 2019: <a href="https://doi.org/10.1002/qj.3676">Multiscale Extratropical Barotropic Variability on the Subseasonal-to-Seasonal Timescale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, in press. 
 
 <b><font color="slateblue">2018</font></b>
 
