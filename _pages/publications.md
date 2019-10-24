@@ -9,6 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=-rmSBisAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ---
+<b><font color="slateblue">In preparation</font></b>
+Boljka, L., D. W. J. Thompson, Y. Li: Downstream suppression of barolinic waves. 
+
 <b><font color="slateblue">Submitted</font></b>
 
 Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2019: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Accepted by Encyclopedia of Sustainability Science and Technology</i>
