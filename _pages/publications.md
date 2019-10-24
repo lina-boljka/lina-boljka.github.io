@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 ---
 <b><font color="slateblue">In preparation</font></b>
-Boljka, L., D. W. J. Thompson, Y. Li: Downstream suppression of barolinic waves. 
+
+<b>Boljka, L.</b>, D. W. J. Thompson, Y. Li: Downstream suppression of barolinic waves. 
 
 <b><font color="slateblue">Submitted</font></b>
 
