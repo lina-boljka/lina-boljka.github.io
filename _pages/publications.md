@@ -11,7 +11,9 @@ author_profile: true
 ---
 <b><font color="slateblue">In preparation</font></b>
 
-<b>Boljka, L.</b>, D. W. J. Thompson, Y. Li: Downstream suppression of barolinic waves. 
+<b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li: Downstream suppression of barolinic waves. 
+
+Zaplotnik, Ž., N. Črnivec, b>L. Boljka</b>, and A. Slameršak, 2019: Poziv slovenskih raziskovalcev k sprejetju takojšnjih ukrepov za omilitev podnebnih sprememb (An open letter to Slovenian government, urging to improve the climate change policy).
 
 <b><font color="slateblue">Submitted</font></b>
 
