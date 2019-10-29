@@ -17,7 +17,7 @@ Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: Poziv sl
 
 <b><font color="slateblue">Submitted</font></b>
 
-Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2019: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Accepted by Encyclopedia of Sustainability Science and Technology</i>
+Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2019: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Encyclopedia of Sustainability Science and Technology</i>, in press.
 
 <b><font color="slateblue">2019</font></b>
 
