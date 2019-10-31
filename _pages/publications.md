@@ -33,7 +33,7 @@ Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, an
 
 <b><font color="slateblue">2014</font></b>
 
-Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="http://www.mop.gov.si/fileadmin/mop.gov.si/pageuploads/podrocja/podnebne_spremembe/porocilo_podnebne_spremembe1_2.pdf">Podnebne Spremembe v Sloveniji</a> (Climate Change in Slovenia). Governmental report, 18 pp.
+Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="https://drive.google.com/open?id=1USfRRZ_D0cyPFsfiJXn20MiskLSp4-1Y">Podnebne Spremembe v Sloveniji</a> (Climate Change in Slovenia). Governmental report, 18 pp.
 
 <b><font color="slateblue">2013</font></b>
 
