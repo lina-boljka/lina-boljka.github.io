@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "LBoljka"
+  username               : &twitter "https://twitter.com/LBoljka"
 facebook:
   username               :
   app_id                 :
