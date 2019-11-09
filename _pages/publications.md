@@ -13,7 +13,7 @@ author_profile: true
 
 <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li: Downstream suppression of baroclinic waves. 
 
-Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje. <i>Odprto pismo slovenski vladi</i>, 4 pp. (An open letter to the Slovenian government, urging them to improve the climate change mitigation and adaptation policy). [Pismo je podpisalo vec kot 100 slovenskih znanstvenikov, strokovnjakov s podrocij fizikalnih, geofizikalnih in okoljskih znanosti; letter was signed by over 100 Slovenian scientists, experts in physical, geophysical and environmental sciences]
+Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje. <i>Odprto pismo slovenski vladi</i>, 4 pp. (An open letter to the Slovenian government, urging them to improve the climate change mitigation and adaptation policy). [Pismo je podpisalo več kot 100 slovenskih znanstvenikov in strokovnjakov s področij fizikalnih, geofizikalnih in okoljskih znanosti/ the letter was signed by over 100 Slovenian scientists and experts in physical, geophysical and environmental sciences]
 
 <b><font color="slateblue">Submitted</font></b>
 
