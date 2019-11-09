@@ -12,6 +12,8 @@ I currently work at the Department of Atmospheric Science, Colorado State Univer
 
 For more details on my work see my blog posts and publications.
 
+
+-----------------------------------------------------------------
 I actively collaborate with my colleagues from Slovenia (<a href="https://zaplotnik.github.io">Žiga Zaplotnik</a>, <a href="https://ninacrnivec.github.io">Nina Črnivec</a>, Aljoša Slameršak); some links related to Slovenian meterology can be found <a href="https://ninacrnivec.github.io/meteoSI/">here</a>.
 
 
