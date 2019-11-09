@@ -62,6 +62,3 @@ Teaching
 ======
   See Teaching tab.
   
-Slovenian Meteorology
-======
-  Links to some websites related to Slovenian meteorology on my collaborator's <a href="https://ninacrnivec.github.io/meteoSI/">website</a>website.
