@@ -15,7 +15,7 @@ author_profile: true
 
 <b>Boljka, L.</b>, and T. Birner: Sudden stratospheric deceleration events and tropopause level planetary wave source. 
 
-Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje. <i>Odprto pismo slovenski vladi</i>, 4 pp. (An open letter to the Slovenian government, urging them to improve the climate change mitigation and adaptation policy). [Pismo je podpisalo več kot 100 slovenskih znanstvenikov in strokovnjakov s področij fizikalnih, geofizikalnih in okoljskih znanosti/ the letter was signed by over 100 Slovenian scientists and experts in physical, geophysical and environmental sciences]
+Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje. <i>Odprto pismo slovenski vladi</i>, 4 pp. [Pismo je podpisalo več kot 100 slovenskih znanstvenikov in strokovnjakov s področij fizikalnih, geofizikalnih in okoljskih znanosti] (An open letter to the Slovenian government, urging them to improve the climate change mitigation and adaptation policy [the letter was signed by over 100 Slovenian scientists and experts in physical, geophysical and environmental sciences]).
 
 <b><font color="slateblue">Submitted</font></b>
 
