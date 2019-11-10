@@ -50,7 +50,7 @@ Awards etc.
 * Oct 2009 - Jul 2012: Awarded Dean’s Award three consecutive years for outstanding academic achievement (University of Ljubljana).
 * Sep 2006 - Jul 2012: Awarded studentship for secondary school and undergraduate degree by The Municipality of Ljubljana Fund for talented students.
 
-Collaborations
+Collaborations (external)
 ======
   I collaborate with experts in different fields (incl. <a href="https://chem.ku.dk/ansatte/alle/?pure=en/persons/81047">Matthew Johnson</a>, <a href="https://laverne.edu/directory/person/david-bickford/">David Bickford</a>, Thomas Sparks, Benjamin Moss, Linnea Luupala, Vanessa Burns)  in order to address environmental, ethical, legal etc. implications of climate change.
 
