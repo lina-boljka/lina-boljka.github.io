@@ -11,32 +11,32 @@ author_profile: true
 ---
 <b><font color="slateblue">In preparation</font></b>
 
-<b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li: Downstream suppression of baroclinic waves. 
+[ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li: Downstream suppression of baroclinic waves. 
 
-<b>Boljka, L.</b>, and T. Birner: Sudden stratospheric deceleration events and tropopause level planetary wave source. 
+[ENG] <b>Boljka, L.</b>, and T. Birner: Sudden stratospheric deceleration events and tropopause level planetary wave source. 
 
 <b><font color="slateblue">Submitted</font></b>
 
-Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2019: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Encyclopedia of Sustainability Science and Technology</i>, in press.
+[ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2019: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Encyclopedia of Sustainability Science and Technology</i>, in press.
 
 <b><font color="slateblue">2019</font></b>
 
-<b>Boljka, L.</b> and T.G. Shepherd, 2019: <a href="https://doi.org/10.1002/qj.3676">Multiscale Extratropical Barotropic Variability on the Subseasonal-to-Seasonal Timescale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, in press. 
+[ENG] <b>Boljka, L.</b> and T.G. Shepherd, 2019: <a href="https://doi.org/10.1002/qj.3676">Multiscale Extratropical Barotropic Variability on the Subseasonal-to-Seasonal Timescale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, in press. 
 
-Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: <a href="https://drive.google.com/open?id=1I7GiPoaxJbqBeQnTN3VNZVbMxrBDnwJW">Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje.</a> <i>Odprto pismo slovenski vladi</i>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy, an open letter to the Slovenian government [signed by over 100 Slovenian scientists; includes English summary]).
+[SLO] Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: <a href="https://drive.google.com/open?id=1I7GiPoaxJbqBeQnTN3VNZVbMxrBDnwJW">Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje.</a> <i>Odprto pismo slovenski vladi</i>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy, an open letter to the Slovenian government [signed by over 100 Slovenian scientists; includes English summary]).
 
 <b><font color="slateblue">2018</font></b>
 
-<b>Boljka, L.</b>, 2018: <a href="http://centaur.reading.ac.uk/82282/1/21024384_Boljka_thesis.pdf">Baroclinic and Barotropic Aspects of Wave-Mean Flow Interaction.</a> <i>Ph.D. Thesis</i>, University of Reading, 212 pp.
+[ENG] <b>Boljka, L.</b>, 2018: <a href="http://centaur.reading.ac.uk/82282/1/21024384_Boljka_thesis.pdf">Baroclinic and Barotropic Aspects of Wave-Mean Flow Interaction.</a> <i>Ph.D. Thesis</i>, University of Reading, 212 pp.
 
-<b>Boljka, L.</b>, T.G. Shepherd, and M. Blackburn, 2018: <a href="https://doi.org/10.1175/JAS-D-17-0370.1"> On the Coupling between Barotropic and Baroclinic Modes of Extratropical Atmospheric Variability.</a> <i>J. Atmos. Sci.</i>, 75, 1853–1871. 
+[ENG] <b>Boljka, L.</b>, T.G. Shepherd, and M. Blackburn, 2018: <a href="https://doi.org/10.1175/JAS-D-17-0370.1"> On the Coupling between Barotropic and Baroclinic Modes of Extratropical Atmospheric Variability.</a> <i>J. Atmos. Sci.</i>, 75, 1853–1871. 
 
-<b>Boljka, L.</b> and T.G. Shepherd, 2018: <a href="https://doi.org/10.1175/JAS-D-17-0307.1">A Multiscale Asymptotic Theory of Extratropical Wave–Mean Flow Interaction.</a> <i>J. Atmos. Sci.</i>, 75, 1833–1852. 
+[ENG] <b>Boljka, L.</b> and T.G. Shepherd, 2018: <a href="https://doi.org/10.1175/JAS-D-17-0307.1">A Multiscale Asymptotic Theory of Extratropical Wave–Mean Flow Interaction.</a> <i>J. Atmos. Sci.</i>, 75, 1833–1852. 
 
 <b><font color="slateblue">2014</font></b>
 
-Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="https://drive.google.com/open?id=1USfRRZ_D0cyPFsfiJXn20MiskLSp4-1Y">Podnebne Spremembe v Sloveniji</a> (Climate Change in Slovenia). Governmental report, 18 pp.
+[SLO] Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="https://drive.google.com/open?id=1USfRRZ_D0cyPFsfiJXn20MiskLSp4-1Y">Podnebne Spremembe v Sloveniji</a> (Climate Change in Slovenia). Governmental report, 18 pp.
 
 <b><font color="slateblue">2013</font></b>
 
-<b>Boljka, L.</b>, 2013: <a href="https://drive.google.com/open?id=0BznR66WFWnYJLTdENzZPcjdVQ3M">Identifying Slow Modes of Variability Using Wave Activity Theory.</a> <i>M.Sc. Dissertation</i>, University of Reading, 77 pp.
+[ENG] <b>Boljka, L.</b>, 2013: <a href="https://drive.google.com/open?id=0BznR66WFWnYJLTdENzZPcjdVQ3M">Identifying Slow Modes of Variability Using Wave Activity Theory.</a> <i>M.Sc. Dissertation</i>, University of Reading, 77 pp.
