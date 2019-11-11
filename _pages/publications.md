@@ -15,8 +15,6 @@ author_profile: true
 
 <b>Boljka, L.</b>, and T. Birner: Sudden stratospheric deceleration events and tropopause level planetary wave source. 
 
-Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje. <i>Odprto pismo slovenski vladi</i>, 13 pp. [123 Slovenskih znanstvenikov je podpisalo pismo]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy, an open letter to the Slovenian government [signed by 123 Slovenian scientists; includes English summary]).
-
 <b><font color="slateblue">Submitted</font></b>
 
 Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2019: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Encyclopedia of Sustainability Science and Technology</i>, in press.
@@ -24,6 +22,8 @@ Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, an
 <b><font color="slateblue">2019</font></b>
 
 <b>Boljka, L.</b> and T.G. Shepherd, 2019: <a href="https://doi.org/10.1002/qj.3676">Multiscale Extratropical Barotropic Variability on the Subseasonal-to-Seasonal Timescale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, in press. 
+
+Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje. <i>Odprto pismo slovenski vladi</i>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy, an open letter to the Slovenian government [signed by over 100 Slovenian scientists; includes English summary]).
 
 <b><font color="slateblue">2018</font></b>
 
