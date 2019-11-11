@@ -23,7 +23,7 @@ Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, an
 
 <b>Boljka, L.</b> and T.G. Shepherd, 2019: <a href="https://doi.org/10.1002/qj.3676">Multiscale Extratropical Barotropic Variability on the Subseasonal-to-Seasonal Timescale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, in press. 
 
-Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje. <i>Odprto pismo slovenski vladi</i>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy, an open letter to the Slovenian government [signed by over 100 Slovenian scientists; includes English summary]).
+Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, and A. Slameršak, 2019: <a href="https://drive.google.com/open?id=1I7GiPoaxJbqBeQnTN3VNZVbMxrBDnwJW">Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje.</a> <i>Odprto pismo slovenski vladi</i>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy, an open letter to the Slovenian government [signed by over 100 Slovenian scientists; includes English summary]).
 
 <b><font color="slateblue">2018</font></b>
 
