@@ -54,7 +54,7 @@ Collaborations (external)
 ======
   I collaborate with experts in different fields (incl. <a href="https://chem.ku.dk/ansatte/alle/?pure=en/persons/81047">Matthew Johnson</a>, <a href="https://laverne.edu/directory/person/david-bickford/">David Bickford</a>, Thomas Sparks, Benjamin Moss, Linnea Luupala, Vanessa Burns)  in order to address environmental, ethical, legal etc. implications of climate change.
 
-  I also collaborate with my colleagues from Slovenia (<a href="https://zaplotnik.github.io">Žiga Zaplotnik</a>, <a href="https://ninacrnivec.github.io">Nina Črnivec</a>, Aljoša Slameršak); some links related to Slovenian meterology can be found <a href="https://ninacrnivec.github.io/meteoSI/">here</a>.
+  I also collaborate with my colleagues from Slovenia (<a href="https://zaplotnik.github.io">Žiga Zaplotnik</a>, <a href="https://ninacrnivec.github.io">Nina Črnivec</a>, Aljoša Slameršak) mostly on informing the Slovenian general public and politicians of the climate change impacts and how to address them; some links related to Slovenian meterology can be found <a href="https://ninacrnivec.github.io/meteoSI/">here</a>.
 
 Publications
 ======
