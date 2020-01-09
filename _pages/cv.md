@@ -56,6 +56,12 @@ Collaborations (external)
 
   I also collaborate with my colleagues from Slovenia (<a href="https://zaplotnik.github.io">Žiga Zaplotnik</a>, <a href="https://ninacrnivec.github.io">Nina Črnivec</a>, <a href="https://ictaweb.uab.cat/personal_detail.php?id=4088">Aljoša Slameršak</a>) mostly on informing the Slovenian general public and politicians of the climate change impacts and how to address them; some links related to Slovenian meterology can be found <a href="https://ninacrnivec.github.io/meteoSI/">here</a>.
 
+Media (Slovenia only)
+======
+* Jan 2020: Interview for the magazine <a href="">"Zarja/Jana"</a> about fires in Australia.  
+* Nov 2019: Interview for <a href="https://radiostudent.si/znanost/zr-intervju/kako-bomo-blažili-podnebne-spremembe?fbclid=IwAR0yXgFOyVCnzybIHD0Ea98oygFN5YTUzMg9ZEgaQBNqpYC8jWG2iQRezyg">Radio Študent</a> (together with Dr. Ziga Zaplotnik, Nina Črnivec, and Aljoša Slameršak) about the <a href="https://drive.google.com/open?id=1I7GiPoaxJbqBeQnTN3VNZVbMxrBDnwJW">open letter to the government (climate change)</a>.  
+* Nov 2019: Interview for the magazine <a href="https://revijazarja.si/clanek/ljudje/5dd2bb059e1b5/smo-pozabili-ljudje-umirajo">"Zarja/Jana"</a> about the <a href="https://drive.google.com/open?id=1I7GiPoaxJbqBeQnTN3VNZVbMxrBDnwJW">open letter to the government (climate change)</a>.  
+
 Publications
 ======
   See Publications tab.
