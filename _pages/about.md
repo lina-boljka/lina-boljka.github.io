@@ -12,6 +12,6 @@ I currently work at the Department of Atmospheric Science, Colorado State Univer
 
 For more details on my work see my blog posts and publications. 
 
-For any questions feel free to contact me on lina.boljka@colostate.edu (or click 'email' link on the left).
+For any questions feel free to contact me on lina.boljka@colostate.edu.
 
 
