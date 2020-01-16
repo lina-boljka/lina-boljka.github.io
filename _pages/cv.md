@@ -58,7 +58,7 @@ Collaborations (external)
 
 Media (Slovenian only)
 ======
-* Jan 2020: Interview for the magazine <a href="https://drive.google.com/open?id=1TGGmebjoEJXzZ8mJw6GDbAtd0swzJP81">"Zarja/Jana"</a> about fires in Australia.  
+* Jan 2020: Interview for the magazine <a href="https://drive.google.com/open?id=1TGGmebjoEJXzZ8mJw6GDbAtd0swzJP81">"Zarja/Jana"</a> about fires in Australia (together with A. Slameršak and A. Gaberščik).  
 * Nov 2019: Interview for <a href="https://radiostudent.si/znanost/zr-intervju/kako-bomo-blažili-podnebne-spremembe?fbclid=IwAR0yXgFOyVCnzybIHD0Ea98oygFN5YTUzMg9ZEgaQBNqpYC8jWG2iQRezyg">Radio Študent</a> (together with Žiga Zaplotnik, Nina Črnivec, and Aljoša Slameršak) about the <a href="https://drive.google.com/open?id=1I7GiPoaxJbqBeQnTN3VNZVbMxrBDnwJW">open letter to the government (climate change)</a>.  
 * Nov 2019: Interview for the magazine <a href="https://novice.svet24.si/clanek/novice/svet/5df8e1f62d92a/slovenija-ne-kaze-pripravljenosti-da-bi-se-na-groznjo-podnebnih-sprememb-odzvala-z-odlocnimi-ukrepi">"Zarja/Jana"</a> about the <a href="https://drive.google.com/open?id=1I7GiPoaxJbqBeQnTN3VNZVbMxrBDnwJW">open letter to the government (climate change)</a>.  
 
