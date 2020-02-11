@@ -15,7 +15,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: Atmospheric planetary wave sources and sudden stratospheric deceleration events. 
 
-[SLO] Bela knjiga o strokovnem varovanju okolja [White paper on environment protection], 80 pp.; editors: M. Gams, L. Globevnik, M. Horvat, F. Lobnik, T. L. Turnšek, Ž. Zaplotnik, A. Zidanšek; authors: <b>L. Boljka</b>, M. Z. Božnar, M. B. Jager, A. Čas, N. Črnivec, M. Gams, M. Debeljak, L. Globevnik, B. Grašič, A. Hace, M. Horvat, T. Horvat, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štubelj, A. Šubic, B. Tomažič, T. L. Turnšek, A. V. Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, T. Žagar.
+[SLO] White paper on environment protection, 80 pp.; editors: M. Gams, L. Globevnik, M. Horvat, F. Lobnik, T. L. Turnšek, Ž. Zaplotnik, A. Zidanšek; authors: <b>L. Boljka</b>, M. Z. Božnar, M. B. Jager, A. Čas, N. Črnivec, M. Gams, M. Debeljak, L. Globevnik, B. Grašič, A. Hace, M. Horvat, T. Horvat, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štubelj, A. Šubic, B. Tomažič, T. L. Turnšek, A. V. Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, T. Žagar.
 
 <b><font color="slateblue">Submitted</font></b>
 
@@ -40,7 +40,7 @@ author_profile: true
 
 <b><font color="slateblue">2014</font></b>
 
-[SLO] Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="https://drive.google.com/open?id=1USfRRZ_D0cyPFsfiJXn20MiskLSp4-1Y">Podnebne Spremembe v Sloveniji</a> (Climate Change in Slovenia). Governmental report, 18 pp.
+[SLO] Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="https://drive.google.com/open?id=1USfRRZ_D0cyPFsfiJXn20MiskLSp4-1Y">Climate Change in Slovenia</a>. Governmental report, 18 pp.
 
 <b><font color="slateblue">2013</font></b>
 
