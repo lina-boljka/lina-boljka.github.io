@@ -17,7 +17,7 @@ author_profile: true
 
 [SLO] Gams, M., L. Globevnik, M. Horvat, F. Lobnik, T. L. Turnšek, A. Zidanšek (eds.), 2020: White paper on environment protection, 80 pp. Authors: <b>L. Boljka</b>, M. Z. Božnar, M. B. Jager, A. Čas, N. Črnivec, M. Gams, M. Debeljak, L. Globevnik, B. Grašič, A. Hace, M. Horvat, T. Horvat, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štubelj, A. Šubic, B. Tomažič, T. L. Turnšek, A. V. Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, T. Žagar.
 
-<b><font color="slateblue">Submitted</font></b>
+<b><font color="slateblue">Submitted/In press</font></b>
 
 [ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2020: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Encyclopedia of Sustainability Science and Technology</i>, in press.
 
