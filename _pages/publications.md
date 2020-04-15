@@ -13,7 +13,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li: Downstream suppression of baroclinic waves. 
 
-[ENG] <b>Boljka, L.</b>, and T. Birner: Atmospheric planetary wave sources and sudden stratospheric deceleration events. 
+[ENG] <b>Boljka, L.</b>, and T. Birner: On the origin and impacts of the atmospheric planetary wave sources. 
 
 <b><font color="slateblue">Submitted/In press</font></b>
 
