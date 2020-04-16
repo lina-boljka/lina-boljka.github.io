@@ -24,7 +24,7 @@ Work experience
 Education
 ======
 * Ph.D. in Atmosphere, Ocean and Climate, University of Reading, 2018
-  * Thesis title: "Baroclinic and Barotropic Aspect of Wave-Mean Flow Interaction"
+  * Thesis title: "Baroclinic and Barotropic Aspects of Wave-Mean Flow Interaction"
   * Supervisors: Prof. Ted Shepherd, Dr. Mike Blackburn, Prof. Brian Hoskins
 * M.Sc. in Atmosphere, Ocean and Climate, University of Reading, 2013
   * Dissertation title: "Identifying Slow Modes of Variability Using Wave Activity Theory"
