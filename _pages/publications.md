@@ -15,7 +15,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling. <i>To be submitted to Weather and Climate Dynamics Discussions.</i>
 
-<b><font color="slateblue">Submitted/In press</font></b>
+<b><font color="slateblue">Submitted/In review/In press</font></b>
 
 [SLO] Gams, M., L. Globevnik, M. Horvat, F. Lobnik, T. L. Turnšek, A. Zidanšek (eds.), 2020: White paper on environment protection, 80 pp. Authors: <b>L. Boljka</b>, M. Z. Božnar, M. B. Jager, A. Čas, N. Črnivec, M. Gams, M. Debeljak, L. Globevnik, B. Grašič, A. Hace, M. Horvat, T. Horvat, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štubelj, A. Šubic, B. Tomažič, T. L. Turnšek, A. V. Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, T. Žagar.
 
