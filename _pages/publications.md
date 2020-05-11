@@ -13,7 +13,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li: Downstream suppression of baroclinic waves. 
 
-[ENG] <b>Boljka, L.</b>, and T. Birner: On the origin and impacts of the atmospheric planetary wave sources. 
+[ENG] <b>Boljka, L.</b>, and T. Birner: Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling. To be submitted to Weather and Climate Dynamics Discussions.
 
 <b><font color="slateblue">Submitted/In press</font></b>
 
