@@ -21,7 +21,7 @@ author_profile: true
 
 <b><font color="slateblue">2020</font></b>
 
-[SLO] Gams, M., N. Črnivec, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (eds.), 2020: <a href="http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf">White paper on environment protection</a>. <i>Institut “Jožef Stefan“, Ljubljana</i>, 160 pp. Authors: <b>L. Boljka</b>, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, N. Črnivec, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
+[SLO] Gams, M., N. Črnivec, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (eds.), 2020: <a href="http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf">White paper on environment protection</a>. <i>Institut “Jožef Stefan“, Ljubljana</i>, 160 pp. ]Authors: <b>L. Boljka</b>, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, N. Črnivec, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.]
 
 [ENG] <b>Boljka, L.</b> and T.G. Shepherd, 2020: <a href="https://doi.org/10.1002/qj.3676">Multiscale extratropical barotropic variability on the subseasonal‐to‐seasonal time‐scale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, 146, 301-313. 
 
