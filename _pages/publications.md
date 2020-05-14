@@ -17,11 +17,11 @@ author_profile: true
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
-[SLO] Gams, M., L. Globevnik, M. Horvat, F. Lobnik, T. L. Turnšek, A. Zidanšek (eds.), 2020: White paper on environment protection, 80 pp. Authors: <b>L. Boljka</b>, M. Z. Božnar, M. B. Jager, A. Čas, N. Črnivec, M. Gams, M. Debeljak, L. Globevnik, B. Grašič, A. Hace, M. Horvat, T. Horvat, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štubelj, A. Šubic, B. Tomažič, T. L. Turnšek, A. V. Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, T. Žagar.
-
 [ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2020: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Encyclopedia of Sustainability Science and Technology</i>, in press.
 
 <b><font color="slateblue">2020</font></b>
+
+[SLO] Gams, M., N. Črnivec, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (eds.), 2020: <a href="http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf">White paper on environment protection</a>. <i>Institut “Jožef Stefan“, Ljubljana</i>, 160 pp. Authors: <b>L. Boljka</b>, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, N. Črnivec, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
 
 [ENG] <b>Boljka, L.</b> and T.G. Shepherd, 2020: <a href="https://doi.org/10.1002/qj.3676">Multiscale extratropical barotropic variability on the subseasonal‐to‐seasonal time‐scale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, 146, 301-313. 
 
