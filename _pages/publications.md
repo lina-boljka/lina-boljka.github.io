@@ -17,9 +17,9 @@ author_profile: true
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
-[ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns, and M. S. Johnson, 2020: Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications. <i>Encyclopedia of Sustainability Science and Technology</i>, in press.
-
 <b><font color="slateblue">2020</font></b>
+
+[ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, L. Boljka, V. Burns and M. S. Johnson, 2020: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4939-2493-6_1082-1">Air pollution and climate change: Sustainability, restoration, and ethical implications</a>. In: Meyers R. (eds.) <i>Encyclopedia of Sustainability Science and Technology, Springer, New York, NY</i>, 48 pp., ISBN=978-1-4939-2493-6, DOI:10.1007/978-1-4939-2493-6_1082-1.
 
 [SLO] Gams, M., N. Črnivec, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (eds.), 2020: <a href="http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf">White paper on environment protection</a>. <i>Inštitut Jožef Stefan, Ljubljana</i>, 160 pp. [Authors: <b>L. Boljka</b>, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, N. Črnivec, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.]
 
