@@ -13,9 +13,9 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li: Downstream suppression of baroclinic waves. 
 
-[ENG] <b>Boljka, L.</b>, and T. Birner: Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling. <i>To be submitted to Weather and Climate Dynamics Discussions.</i>
-
 <b><font color="slateblue">Submitted/In review/In press</font></b>
+
+[ENG] <b>Boljka, L.</b>, and T. Birner: Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling. <i>Submitted to Weather and Climate Dynamics Discussions.</i>
 
 <b><font color="slateblue">2020</font></b>
 
