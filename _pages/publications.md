@@ -15,7 +15,7 @@ author_profile: true
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
-[ENG] <b>Boljka, L.</b>, and T. Birner: <a href="https://doi.org/10.5194/wcd-2020-23">Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling</a>. <i>Weather Clim. Dynam. Discuss., in review.</i> [<a href="https://www.weather-clim-dynam-discuss.net/wcd-2020-23/#discussion">Open for discussion</a>]
+[ENG] <b>Boljka, L.</b>, and T. Birner: <a href="https://doi.org/10.5194/wcd-2020-23">Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling</a>. <i>Weather Clim. Dynam. Discuss.</i>, in review. [<a href="https://www.weather-clim-dynam-discuss.net/wcd-2020-23/#discussion">Open for discussion</a>]
 
 <b><font color="slateblue">2020</font></b>
 
