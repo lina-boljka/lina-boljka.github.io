@@ -41,6 +41,7 @@ Skills
 
 Awards etc.
 ======
+* Jun 2020: Awarded European Meteorological Society Outreach and Communication Award for the project RESCCCUE together with Žiga Zaplotnik, Nina Črnivec and Aljoša Slameršak.
 * Sep 2016: Received a bursary by the University of Cambridge (Department of Applied Mathematics and Theoretical Physics) to attend the ‘Fluid Dynamics of Sustainability and the Environment’ Summer School (Cambridge, UK).
 * Nov 2015: Received ‘Preparing to Teach’ certificate (University of Reading).
 * Oct 2014 - Sep 2018: Awarded studentship for PhD degree by The University of Reading PhD Studentship (ERC grant).
