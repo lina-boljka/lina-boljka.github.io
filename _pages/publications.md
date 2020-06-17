@@ -11,7 +11,7 @@ author_profile: true
 ---
 <b><font color="slateblue">In preparation</font></b>
 
-[ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li: Downstream suppression of baroclinic waves. 
+[ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li: Downstream suppression of baroclinic waves.<i>To be submitted to J. Climate.</i> 
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
