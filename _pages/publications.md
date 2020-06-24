@@ -13,7 +13,7 @@ author_profile: true
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
-[ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li, 2020: Downstream suppression of baroclinic waves.<i>Submitted to J. Climate.</i> 
+[ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li, 2020: Downstream suppression of baroclinic waves. <i>Submitted to J. Climate.</i> 
 
 [ENG] <b>Boljka, L.</b>, and T. Birner, 2020: <a href="https://doi.org/10.5194/wcd-2020-23">Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling</a>. <i>Weather Clim. Dynam. Discuss.</i>, in review. [<a href="https://www.weather-clim-dynam-discuss.net/wcd-2020-23/#discussion">Open for discussion</a>]
 
