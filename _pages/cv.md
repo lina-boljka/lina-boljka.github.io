@@ -35,7 +35,7 @@ Education
 Skills
 ======
 * Analysing large datasets in various programming languages (Python, Matlab, R, C, NCL etc.)
-* Running idealised atmospheric models (dry-dynamical core and aquaplanet setups)
+* Running idealised atmospheric models (dry-dynamical core and aquaplanet setups; Fortran)
 * Analysing regional climate model output.
 * Analysing subseasonal-to-seasonal (SubX) models
 
