@@ -13,7 +13,7 @@ Work experience
 ======
 * Autumn 2018 - present: Postdoctoral Fellow
   * Colorado State University
-  * Duties included: Analysing reanalysis, S2S model output, and idealised model output for better understanding of extratropical dynamics (storm tracks, stratosphere-troposphere interaction). 
+  * Duties included: Analysing reanalysis, global climate model output, and idealised model output for better understanding of extratropical dynamics (storm tracks, stratosphere-troposphere interaction). 
   * Visiting scientist at Ludwig-Maximilians-Universität München. 
   * Supervisors: Prof. David W.J. Thompson, Prof. Thomas Birner (LMU)
   
@@ -36,7 +36,7 @@ Skills
 ======
 * Analysing large datasets in various programming languages (Python, Matlab, R, C, NCL etc.)
 * Running idealised atmospheric models (dry-dynamical core and aquaplanet setups; Fortran)
-* Analysing regional climate model output.
+* Analysing regional and global climate model output.
 * Analysing subseasonal-to-seasonal (SubX) models
 
 Awards etc.
