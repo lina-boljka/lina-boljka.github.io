@@ -13,6 +13,8 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: On the impact of the extratropical tropopause inversion layer on coupled troposphere-stratosphere dynamics. In prep. 
 
+[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, N. Žagar: The sensitivity of Hadley cell intensity trends in the global reanalyses. In prep.
+
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
 [ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li, 2020: Downstream suppression of baroclinic waves. <i>J. Climate</i>, in review. 
