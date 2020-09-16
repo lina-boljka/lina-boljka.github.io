@@ -21,6 +21,10 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner, 2020: <a href="https://doi.org/10.5194/wcd-2020-23">Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling</a>. <i>Weather Clim. Dynam. Discuss.</i>, in review. 
 
+[SLO] <b>Boljka, L.</b>, 2020: Baroclinic and barotropic oscillations in midlatitudes. <i>PhD summaries, Vetrnica</i>, in press.
+
+[SLO] Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, A. Slameršak, 2020: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <i>Interesting facts, Vetrnica</i>, in press.
+
 <b><font color="slateblue">2020</font></b>
 
 [ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns and M. S. Johnson, 2020: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4939-2493-6_1082-1">Air pollution and climate change: Sustainability, restoration, and ethical implications</a>. In: Meyers R. (eds.) <i>Encyclopedia of Sustainability Science and Technology, Springer, New York, NY</i>, 48 pp., DOI:10.1007/978-1-4939-2493-6_1082-1.
