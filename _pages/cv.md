@@ -25,10 +25,10 @@ Education
 ======
 * Ph.D. in Atmosphere, Ocean and Climate, University of Reading, 2018
   * Thesis title: "Baroclinic and Barotropic Aspects of Wave-Mean Flow Interaction"
-  * Supervisors: Prof. Ted Shepherd, Dr. Mike Blackburn, Prof. Brian Hoskins
+  * Supervisors: Prof. Theodore G. Shepherd, Dr. Michael Blackburn, Prof. Sir Brian J. Hoskins
 * M.Sc. in Atmosphere, Ocean and Climate, University of Reading, 2013
   * Dissertation title: "Identifying Slow Modes of Variability Using Wave Activity Theory"
-  * Supervisors: Prof. John Methven, Dr. Tom Frame
+  * Supervisors: Prof. John Methven, Dr. Thomas H.A. Frame
 * B.Sc. in Meteorology with Geophysics, University of Ljubljana, 2012
 
 
