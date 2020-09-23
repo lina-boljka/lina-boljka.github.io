@@ -11,7 +11,7 @@ author_profile: true
 ---
 <b><font color="slateblue">In preparation</font></b>
 
-[ENG] <b>Boljka, L.</b>, and T. Birner: On the impact of the extratropical tropopause inversion layer on coupled troposphere-stratosphere dynamics. In prep. 
+[ENG] <b>Boljka, L.</b>, and T. Birner: Intensification of the atmospheric circulation with stronger extratropical tropopause inversion layer. In prep. 
 
 [ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, N. Žagar: The sensitivity of Hadley cell intensity trends in the global reanalyses. In prep.
 
