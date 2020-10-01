@@ -11,7 +11,11 @@ redirect_from:
 
 Work experience
 ======
-* Autumn 2018 - present: Postdoctoral Fellow
+* Autumn 2020 - present: Researcher in Climate Dynamics
+  * University of Bergen
+  * Supervisors: Prof. Noel Keenleyside, Dr. Nour-Eddine Omrani
+
+* Autumn 2018 - Autumn 2020: Postdoctoral Fellow
   * Colorado State University
   * Duties included: Analysing reanalysis, S2S & global climate model output, and idealised model output for better understanding of extratropical dynamics (storm tracks, stratosphere-troposphere interaction). 
   * Visiting scientist at Ludwig-Maximilians-Universität München. 
