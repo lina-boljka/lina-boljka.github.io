@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=-rmSBisAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ---
-<u><b><font color="slateblue">Research</font></b></u> 
+<b><font color="slateblue"><u>Research</u></font></b> 
 
 <b><font color="slateblue">In preparation</font></b>
 
@@ -39,7 +39,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, 2013: <a href="https://drive.google.com/open?id=0BznR66WFWnYJLTdENzZPcjdVQ3M">Identifying Slow Modes of Variability Using Wave Activity Theory.</a> <i>M.Sc. Dissertation</i>, University of Reading, 77 pp.
 
-<u><b><font color="teal">Other</font></u></large>
+<b><font color="teal"><u>Other</u></font></b>
 
 <b><font color="teal">Submitted/In review/In press</font></b>
 
