@@ -39,7 +39,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, 2013: <a href="https://drive.google.com/open?id=0BznR66WFWnYJLTdENzZPcjdVQ3M">Identifying Slow Modes of Variability Using Wave Activity Theory.</a> <i>M.Sc. Dissertation</i>, University of Reading, 77 pp.
 
-======
+
 
 <b><font color="teal"><u>Other</u></font></b>
 
