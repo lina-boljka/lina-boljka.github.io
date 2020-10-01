@@ -13,7 +13,7 @@ Work experience
 ======
 * Autumn 2020 - present: Researcher in Climate Dynamics
   * University of Bergen
-  * Supervisors: Prof. Noel Keenleyside, Dr. Nour-Eddine Omrani
+  * Supervisors: Prof. Noel Keenlyside, Dr. Nour-Eddine Omrani
 
 * Autumn 2018 - Autumn 2020: Postdoctoral Fellow
   * Colorado State University
