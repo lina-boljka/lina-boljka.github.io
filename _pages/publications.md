@@ -49,7 +49,7 @@ author_profile: true
 
 <b><font color="slateblue">2020</font></b>
 
-[SLO] <b>Boljka, L.</b>, Ž. Zaplotnik, A. Slameršak, N. Črnivec, 2020: Comments and suggestions onthe climate change strategy draft. <i>A letter to the Ministry for the Environment</i>, 2 pp. 
+[SLO] <b>Boljka, L.</b>, Ž. Zaplotnik, A. Slameršak, N. Črnivec, 2020: <a href="https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view?usp=sharing">Comments and suggestions onthe climate change strategy draft</a>. <i>A letter to the Ministry for the Environment</i>, 2 pp. 
 
 
 [ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns and M. S. Johnson, 2020: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4939-2493-6_1082-1">Air pollution and climate change: Sustainability, restoration, and ethical implications</a>. In: Meyers R. (eds.) <i>Encyclopedia of Sustainability Science and Technology, Springer, New York, NY</i>, 48 pp., DOI:10.1007/978-1-4939-2493-6_1082-1.
