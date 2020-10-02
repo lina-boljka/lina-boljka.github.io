@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+a# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Lina Boljka"
 title_separator          : "-"
 name                     : &name "Dr. Lina Boljka"
-description              : &description "Postdoctoral Fellow at Colorado State University"
+description              : &description "Researcher in Climate Dynamics at University of Bergen"
 url                      : https://lina-boljka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lina-boljka.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Lina Boljka"
   avatar           : "IMG_7017.jpg"
-  bio              : "Postdoctoral Fellow at Colorado State University; Expert in large scale atmospheric dynamics."
-  location         : "Fort Collins, Colorado"
-  employer         : "Colorado State University"
+  bio              : "Researcher in Climate Dynamics at University of Bergen; Expert in large scale atmospheric dynamics."
+  location         : "Bergen, Norway"
+  employer         : "University of Bergen"
   googlescholar    : "https://scholar.google.com/citations?user=-rmSBisAAAAJ&hl=en"
   email            : "lina.boljka@colostate.edu"
   researchgate     : "https://www.researchgate.net/profile/Lina_Boljka2"
