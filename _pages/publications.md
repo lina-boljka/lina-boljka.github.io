@@ -23,8 +23,6 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner, 2020: <a href="https://doi.org/10.5194/wcd-2020-23">Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling</a>. <i>Weather Clim. Dynam. Discuss.</i>, in review. 
 
-[SLO] <b>Boljka, L.</b>, 2020: Baroclinic and barotropic oscillations in midlatitudes. <i>PhD summaries, Vetrnica</i>, in press.
-
 <b><font color="slateblue">2020</font></b>
 
 [ENG] <b>Boljka, L.</b> and T.G. Shepherd, 2020: <a href="https://doi.org/10.1002/qj.3676">Multiscale extratropical barotropic variability on the subseasonal‐to‐seasonal time‐scale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, 146, 301-313. 
@@ -48,6 +46,8 @@ author_profile: true
 <b><font color="teal">Submitted/In review/In press</font></b>
 
 [SLO] Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, A. Slameršak, 2020: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <i>Interesting facts, Vetrnica</i>, in press.
+
+[SLO] <b>Boljka, L.</b>, 2020: Baroclinic and barotropic oscillations in midlatitudes. <i>PhD summaries, Vetrnica</i>, in press.
 
 <b><font color="teal">2020</font></b>
 
