@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=-rmSBisAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ---
-<b><font color="slateblue"><u>Peer-Reviewed</u></font></b> 
+<b><font color="slateblue"><u>Climate Dynamics</u></font></b> 
 
 <b><font color="slateblue">In preparation</font></b>
 
@@ -22,6 +22,8 @@ author_profile: true
 [ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li, 2020: Downstream suppression of baroclinic waves. <i>J. Climate</i>, in review. 
 
 [ENG] <b>Boljka, L.</b>, and T. Birner, 2020: <a href="https://doi.org/10.5194/wcd-2020-23">Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling</a>. <i>Weather Clim. Dynam. Discuss.</i>, in review. 
+
+[SLO] <b>Boljka, L.</b>, 2020: Baroclinic and barotropic oscillations in midlatitudes. <i>PhD summaries, Vetrnica</i>, in press.
 
 <b><font color="slateblue">2020</font></b>
 
@@ -41,11 +43,9 @@ author_profile: true
 
 <hr>
 
-<b><font color="teal"><u>Other</u></font></b>
+<b><font color="teal"><u>Climate Change</u></font></b>
 
 <b><font color="teal">Submitted/In review/In press</font></b>
-
-[SLO] <b>Boljka, L.</b>, 2020: Baroclinic and barotropic oscillations in midlatitudes. <i>PhD summaries, Vetrnica</i>, in press.
 
 [SLO] Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, A. Slameršak, 2020: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <i>Interesting facts, Vetrnica</i>, in press.
 
