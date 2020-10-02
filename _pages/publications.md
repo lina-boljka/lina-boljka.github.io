@@ -51,7 +51,7 @@ author_profile: true
 
 <b><font color="teal">2020</font></b>
 
-[SLO] <b>Boljka, L.</b>, Ž. Zaplotnik, A. Slameršak, N. Črnivec, 2020: <a href="https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view?usp=sharing">Comments and suggestions on the climate change strategy draft</a>. <i>A letter to the Ministry for the Environment</i>, 2 pp. <small>[SLO] Media: <a href="https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&">OE Finance</a>, <a href="http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/">Meteorolog.si</a>.
+[SLO] <b>Boljka, L.</b>, Ž. Zaplotnik, A. Slameršak, N. Črnivec, 2020: <a href="https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view?usp=sharing">Comments and suggestions on the draft of the Slovenian long-term plans on climate change</a>. <i>A letter to the Ministry for the Environment</i>, 2 pp. <small>[SLO] Media: <a href="https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&">OE Finance</a>, <a href="http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/">Meteorolog.si</a>.
 
 [ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns and M. S. Johnson, 2020: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4939-2493-6_1082-1">Air pollution and climate change: Sustainability, restoration, and ethical implications</a>. In: Meyers R. (eds.) <i>Encyclopedia of Sustainability Science and Technology, Springer, New York, NY</i>, 48 pp., DOI:10.1007/978-1-4939-2493-6_1082-1.
 
