@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=-rmSBisAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ---
-<b><font color="slateblue"><u>Climate Dynamics</u></font></b> 
+<b><font color="slateblue"><u>Research</u></font></b> 
 
 <b><font color="slateblue">In preparation</font></b>
 
@@ -43,7 +43,7 @@ author_profile: true
 
 <hr>
 
-<b><font color="teal"><u>Climate Change</u></font></b>
+<b><font color="teal"><u>Other</u></font></b>
 
 <b><font color="teal">Submitted/In review/In press</font></b>
 
