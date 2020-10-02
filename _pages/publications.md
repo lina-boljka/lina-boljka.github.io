@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=-rmSBisAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ---
-<b><font color="slateblue"><u>Research</u></font></b> 
+<b><font color="slateblue"><u>In English</u></font></b> 
 
 <b><font color="slateblue">In preparation</font></b>
 
@@ -24,6 +24,8 @@ author_profile: true
 [ENG] <b>Boljka, L.</b>, and T. Birner, 2020: <a href="https://doi.org/10.5194/wcd-2020-23">Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling</a>. <i>Weather Clim. Dynam. Discuss.</i>, in review. 
 
 <b><font color="slateblue">2020</font></b>
+
+[ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns and M. S. Johnson, 2020: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4939-2493-6_1082-1">Air pollution and climate change: Sustainability, restoration, and ethical implications</a>. In: Meyers R. (eds.) <i>Encyclopedia of Sustainability Science and Technology, Springer, New York, NY</i>, 48 pp., DOI:10.1007/978-1-4939-2493-6_1082-1.
 
 [ENG] <b>Boljka, L.</b> and T.G. Shepherd, 2020: <a href="https://doi.org/10.1002/qj.3676">Multiscale extratropical barotropic variability on the subseasonal‐to‐seasonal time‐scale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, 146, 301-313. 
 
@@ -41,7 +43,7 @@ author_profile: true
 
 <hr>
 
-<b><font color="teal"><u>Other</u></font></b>
+<b><font color="teal"><u>In Slovenian</u></font></b>
 
 <b><font color="teal">Submitted/In review/In press</font></b>
 
@@ -52,8 +54,6 @@ author_profile: true
 <b><font color="teal">2020</font></b>
 
 [SLO] <b>Boljka, L.</b>, Ž. Zaplotnik, A. Slameršak, N. Črnivec, 2020: <a href="https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view?usp=sharing">Comments and suggestions on the draft of the Slovenian long-term climate change strategy</a>. <i>A letter to the Ministry for the Environment</i>, 2 pp. <small>[SLO] Media: <a href="https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&">OE Finance</a>, <a href="http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/">Meteorolog.si</a>, <a href="https://4d.rtvslo.si/arhiv/globus/174722022">Globus</a>.
-
-[ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns and M. S. Johnson, 2020: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4939-2493-6_1082-1">Air pollution and climate change: Sustainability, restoration, and ethical implications</a>. In: Meyers R. (eds.) <i>Encyclopedia of Sustainability Science and Technology, Springer, New York, NY</i>, 48 pp., DOI:10.1007/978-1-4939-2493-6_1082-1.
 
 [SLO] Gams, M., N. Črnivec, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (eds.), 2020: <a href="http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf">White paper on environment protection</a>. <i>Inštitut Jožef Stefan, Ljubljana</i>, 160 pp. <small>[Authors: <b>L. Boljka</b>, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, N. Črnivec, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.]</small>
 
