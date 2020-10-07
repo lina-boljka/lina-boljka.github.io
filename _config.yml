@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Lina Boljka"
+title                    : "Lina Boljka, PhD"
 title_separator          : "-"
-name                     : &name "Dr. Lina Boljka"
+name                     : &name "Lina Boljka, PhD"
 description              : &description "Researcher in Climate Dynamics at University of Bergen"
 url                      : https://lina-boljka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
