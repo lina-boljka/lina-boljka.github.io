@@ -15,7 +15,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: Intensification of the atmospheric circulation with stronger extratropical tropopause inversion layer. In prep. 
 
-[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, N. Žagar: The sensitivity of Hadley cell intensity trends in the global reanalyses. In prep.
+[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, N. Žagar: Hadley circulation intensity trends in the global reanalyses - are they an artefact? In prep.
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
