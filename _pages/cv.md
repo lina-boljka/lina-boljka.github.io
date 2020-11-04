@@ -12,17 +12,19 @@ redirect_from:
 Work experience
 ======
 * Autumn 2020 - present: Researcher in Climate Dynamics
-  * University of Bergen
+  * University of Bergen, Geophysical Institute
+  * Bjerknes Centre for Climate Research
+  * Duties included: Analysing reanalysis, and climate/S2S model data to better understand climate variability and its role in long-term prediction.
   * Supervisors: Prof. Noel Keenlyside, Dr. Nour-Eddine Omrani
 
 * Autumn 2018 - Autumn 2020: Postdoctoral Fellow
-  * Colorado State University
-  * Duties included: Analysing reanalysis, S2S & global climate model output, and idealised model output for better understanding of extratropical dynamics (storm tracks, stratosphere-troposphere interaction). 
+  * Colorado State University, Department of Atmospheric Science
+  * Duties included: Analysing reanalysis, and idealised model output for better understanding of extratropical dynamics (storm tracks, stratosphere-troposphere interaction). 
   * Visiting scientist at Ludwig-Maximilians-Universität München. 
   * Supervisors: Prof. David W.J. Thompson, Prof. Thomas Birner (LMU)
   
 * Autumn 2013- Summer 2014: Climatologist
-  * Slovenian Environment Agency
+  * Slovenian Environment Agency, Sector for Climatology
   * Duties included: Analysing regional climate model data (CORDEX,ENSEMBLES) for regional climate change studies of Slovenia and Southeast Europe.
   
 Education
