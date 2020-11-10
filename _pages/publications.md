@@ -15,7 +15,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: Intensification of the atmospheric circulation with stronger extratropical tropopause inversion layer. In prep. 
 
-[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, N. Žagar: Hadley circulation intensity trends in the global reanalyses - are they an artefact? In prep.
+[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>: Hadley circulation intensity trends in the global reanalyses - are they an artefact? In prep.
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
@@ -25,7 +25,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner, 2020: <a href="https://doi.org/10.5194/wcd-1-555-2020">Tropopause-level planetary wave source and its role in two-way troposphere-stratosphere coupling</a>. <i>Weather Clim. Dynam.</i>, 1, 555–575. 
 
-[ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns and M. S. Johnson, 2020: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4939-2493-6_1082-1">Air pollution and climate change: Sustainability, restoration, and ethical implications</a>. In: Meyers R. (eds.) <i>Encyclopedia of Sustainability Science and Technology, Springer, New York, NY</i>, 48 pp., DOI:10.1007/978-1-4939-2493-6_1082-1.
+[ENG] Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, <b>L. Boljka</b>, V. Burns and M. S. Johnson, 2020: <a href="https://doi.org/10.1007/978-1-0716-0596-7_1082">Air Pollution and Climate Change: Sustainability, Restoration, and Ethical Implications.</a> In: Goodsite M.E., Johnson M.S., Hertel O. (eds) <i>Air Pollution Sources, Statistics and Health Effects. Encyclopedia of Sustainability Science and Technology Series. Springer, New York, NY<\i>, p. 279-325, DOI: 10.1007/978-1-0716-0596-7_1082.
 
 [ENG] <b>Boljka, L.</b> and T.G. Shepherd, 2020: <a href="https://doi.org/10.1002/qj.3676">Multiscale extratropical barotropic variability on the subseasonal‐to‐seasonal time‐scale.</a> <i>Quart. J. Roy. Meteor. Soc.</i>, 146, 301-313. 
 
