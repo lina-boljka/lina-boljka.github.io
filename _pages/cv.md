@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* Autumn 2020 - present: Researcher in Climate Dynamics
+* Autumn 2020 - present: Researcher
   * University of Bergen, Geophysical Institute
   * Bjerknes Centre for Climate Research
   * Bjerknes Centre Prediction Unit
