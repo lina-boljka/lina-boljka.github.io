@@ -14,8 +14,9 @@ Work experience
 * Autumn 2020 - present: Researcher in Climate Dynamics
   * University of Bergen, Geophysical Institute
   * Bjerknes Centre for Climate Research
+  * Bjerknes Centre Prediction Unit
   * Duties included: Analysing reanalysis, and climate/S2S model data to better understand climate variability and its role in long-term prediction.
-  * Supervisors: Prof. Noel Keenlyside, Dr. Nour-Eddine Omrani
+  * Supervisors: Dr. Nour-Eddine Omrani, Prof. Noel Keenlyside 
 
 * Autumn 2018 - Autumn 2020: Postdoctoral Fellow
   * Colorado State University, Department of Atmospheric Science
