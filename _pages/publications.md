@@ -19,7 +19,9 @@ author_profile: true
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
-[ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li, 2020: <a href="https://doi.org/10.1175/JCLI-D-20-0483.1">Downstream suppression of baroclinic waves.</a> <i>J. Climate</i>, in press. 
+<b><font color="slateblue">2021</font></b>
+
+[ENG] <b>Boljka, L.</b>, D. W. J. Thompson, and Y. Li, 2021: <a href="https://doi.org/10.1175/JCLI-D-20-0483.1">Downstream suppression of baroclinic waves.</a> <i>J. Climate</i>, 34, 919-930. 
 
 <b><font color="slateblue">2020</font></b>
 
