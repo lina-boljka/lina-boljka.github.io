@@ -15,7 +15,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: Intensification of the atmospheric circulation with stronger extratropical tropopause inversion layer. In prep. 
 
-[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>: Does ERA5 reanalysis exhibit strengthening of the Hadley circulation? In prep.
+[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>: Recent Hadley circulation strengthening: a trend or multidecadal variability? In prep.
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
