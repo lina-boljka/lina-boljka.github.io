@@ -12,6 +12,6 @@ I currently work at the Geophysical Institute, University of Bergen. My research
 
 For more details on my work see my blog posts and publications. 
 
-For any questions feel free to contact me on lina.boljka@uib.no. If email is not working please contact me on Twitter <a href="https://twitter.com/LBoljka">@Lboljka</a>.
+For any questions feel free to contact me on lina.boljka@uib.no. If email is not working please contact me on Twitter <a href="https://twitter.com/LBoljka">@LBoljka</a>.
 
 
