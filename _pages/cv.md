@@ -66,6 +66,7 @@ Collaborations (external)
 
 Media (Slovenian only)
 ======
+* Apr 2021: Interview for <a href="https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji">Svet24</a> on weather extremes now and in the future (together with A. Sušnik and N. Črnivec). 
 * Jun 2020: A comment on how could coronavirus shape our future and action against climate change - Finance Manager. <a href="https://www.linkedin.com/feed/update/urn:li:activity:6678934250378539009/">Summary</a>. Other renown Slovenian experts provided comments for after-coronavirus world in their respective fields as well.
 * Jan 2020: Interview for the magazine <a href="https://drive.google.com/open?id=1TGGmebjoEJXzZ8mJw6GDbAtd0swzJP81">"Zarja/Jana"</a> about fires in Australia (together with A. Slameršak and A. Gaberščik).  
 * Nov 2019: Interview for <a href="https://radiostudent.si/znanost/zr-intervju/kako-bomo-blažili-podnebne-spremembe?fbclid=IwAR0yXgFOyVCnzybIHD0Ea98oygFN5YTUzMg9ZEgaQBNqpYC8jWG2iQRezyg">Radio Študent</a> (together with Ž. Zaplotnik, N. Črnivec, and A. Slameršak) about the <a href="https://drive.google.com/open?id=1I7GiPoaxJbqBeQnTN3VNZVbMxrBDnwJW">open letter to the government (climate change)</a>.  
