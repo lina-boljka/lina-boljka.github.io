@@ -48,7 +48,7 @@ Skills
 
 Awards etc.
 ======
-* Jun 2020: Awarded <a href="https://www.emetsoc.org/oc2020-for-rescccue-slovenia/">European Meteorological Society Outreach and Communication Award</a> for the ongoing project <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view?usp=sharing">RESCCCUE</a> together with Žiga Zaplotnik, Nina Črnivec and Aljoša Slameršak. [<a href="https://drive.google.com/file/d/1nOGlKVa0tWz-9K8oFSc8ZZ92JskJYIGa/view?usp=sharing">List of outreach activites before May 20th 2020.</a>] <a href="https://www.youtube.com/watch?v=3taZqPIbZh4">Award ceremony.</a>
+* Jun 2020: Awarded <a href="https://www.emetsoc.org/oc2020-for-rescccue-slovenia/">European Meteorological Society Outreach and Communication Award</a> for the ongoing project <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view?usp=sharing">RESCCCUE</a> together with Žiga Zaplotnik, Nina Črnivec and Aljoša Slameršak. [<a href="https://drive.google.com/file/d/1nOGlKVa0tWz-9K8oFSc8ZZ92JskJYIGa/view?usp=sharing">List of outreach activites before May 20th 2020.</a>] <a href="https://www.youtube.com/watch?v=3taZqPIbZh4">Awards ceremony.</a>
 * Sep 2018: Received a bursary by SPARC to attend the 'SPARC General Assembly' (Kyoto, Japan).
 * Sep 2016: Received a bursary by the University of Cambridge (Department of Applied Mathematics and Theoretical Physics) to attend the ‘Fluid Dynamics of Sustainability and the Environment’ Summer School (Cambridge, UK).
 * Nov 2015: Received ‘Preparing to Teach’ certificate (University of Reading).
