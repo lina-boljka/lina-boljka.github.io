@@ -16,13 +16,13 @@ Work experience
   * Bjerknes Centre for Climate Research
   * Bjerknes Centre Prediction Unit
   * Duties included: Analysing reanalysis, and climate/S2S model data to better understand climate variability and its role in long-term prediction.
-  * Supervisors: Dr. Nour-Eddine Omrani, Prof. Noel Keenlyside 
+  * Advisors: Dr. Nour-Eddine Omrani, Prof. Noel Keenlyside 
 
 * Autumn 2018 - Autumn 2020: Postdoctoral Fellow
   * Colorado State University, Department of Atmospheric Science
   * Duties included: Analysing reanalysis, and idealised model output for better understanding of extratropical dynamics (storm tracks, stratosphere-troposphere interaction). 
   * Visiting scientist at Ludwig-Maximilians-Universität München. 
-  * Supervisors: Prof. David W.J. Thompson, Prof. Thomas Birner (LMU)
+  * Advisors: Prof. David W.J. Thompson, Prof. Thomas Birner (LMU)
   
 * Autumn 2013- Summer 2014: Climatologist
   * Slovenian Environment Agency, Sector for Climatology
