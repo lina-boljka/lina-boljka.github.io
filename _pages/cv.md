@@ -14,7 +14,7 @@ Work experience
 * Autumn 2020 - present: Researcher
   * University of Bergen, Geophysical Institute & Bjerknes Centre for Climate Research 
   * Duties included: Analysing reanalysis, and climate/S2S model data to better understand climate variability and its role in long-term prediction. @Bjerknes Centre Prediction Unit
-  * Advisors: Dr. Nour-Eddine Omrani, Prof. Noel Keenlyside 
+  * Advisors: Dr. Nour-Eddine Omrani, Prof. Noel S. Keenlyside 
 
 * Autumn 2018 - Autumn 2020: Postdoctoral Fellow
   * Colorado State University, Department of Atmospheric Science
