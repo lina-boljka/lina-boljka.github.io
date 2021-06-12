@@ -21,7 +21,7 @@ author_profile: true
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
-[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>: Recent Hadley circulation strengthening: a trend or multidecadal variability? Submitted.
+[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>: Recent Hadley circulation strengthening: a trend or multidecadal variability? In review.
 
 <b><font color="slateblue">2021</font></b>
 
