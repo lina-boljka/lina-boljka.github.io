@@ -51,7 +51,7 @@ Awards etc.
 * Sep 2018: Received a bursary by SPARC to attend the 'SPARC General Assembly' (Kyoto, Japan).
 * Sep 2016: Received a bursary by the University of Cambridge (Department of Applied Mathematics and Theoretical Physics) to attend the ‘Fluid Dynamics of Sustainability and the Environment’ Summer School (Cambridge, UK).
 * Nov 2015: Received ‘Preparing to Teach’ certificate (University of Reading).
-* Oct 2014 - Sep 2018: Awarded studentship for PhD degree by The University of Reading PhD Studentship (ERC grant).
+* Oct 2014 - Sep 2018: Awarded studentship for PhD degree by The University of Reading PhD Studentship (via ERC).
 * Oct 2013: Awarded Sutcliffe Prize for Overall Achievement at MSc level (University of Reading).
 * Jun 2013: Received Met Office Forecasting Diploma (University of Reading).
 * Oct 2012 - Oct 2013: Awarded studentship for MSc degree by The Slovenian Scholarship Fund Ad Futura.
