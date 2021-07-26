@@ -15,11 +15,11 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: Intensification of the atmospheric circulation with stronger extratropical tropopause inversion layer. In prep. 
 
-[ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: Indices of the Hadley circulation strength and associated circulation trends. In prep. 
-
 [ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis: A stratosphere-troposphere and Atlantic Ocean coupled multi-decadal oscillation. In prep. 
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
+
+[ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: Indices of the Hadley circulation strength and associated circulation trends. Submitted. 
 
 [ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>: Recent Hadley circulation strengthening: a trend or multidecadal variability? In review.
 
