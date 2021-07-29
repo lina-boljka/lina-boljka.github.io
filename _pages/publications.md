@@ -19,7 +19,7 @@ author_profile: true
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
-[ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: Indices of the Hadley circulation strength and associated circulation trends. Submitted. 
+[ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: Indices of the Hadley circulation strength and associated circulation trends. In review. [Discussion open <a href="https://doi.org/10.5194/wcd-2021-50">on WCD website</a>] 
 
 [ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>: Recent Hadley circulation strengthening: a trend or multidecadal variability? In review.
 
