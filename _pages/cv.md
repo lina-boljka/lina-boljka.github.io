@@ -66,6 +66,7 @@ Collaborations (external)
 
 Media (Slovenian only)
 ======
+* Aug 2021: Interview for Svet24 on recent IPCC report.
 * Aug 2021: Interview for Zarja/Jana on recent heat, fires, floods across the globe.
 * Apr 2021: Interview for <a href="https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji">Svet24</a> on weather extremes now and in the future (together with A. Sušnik and N. Črnivec). 
 * Jun 2020: A comment on how could coronavirus shape our future and action against climate change - Finance Manager. <a href="https://www.linkedin.com/feed/update/urn:li:activity:6678934250378539009/">Summary</a>. Other renown Slovenian experts provided comments for after-coronavirus world in their respective fields as well.
