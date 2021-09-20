@@ -15,6 +15,8 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. In prep. 
 
+[ENG] <b>Boljka, L.</b>, and N.-E. Omrani, ...: Intrinsic variability of the El Niño Southern Oscillation. In prep. 
+
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
 [ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. Submitted. 
