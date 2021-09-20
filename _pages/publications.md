@@ -13,11 +13,11 @@ author_profile: true
 
 <b><font color="slateblue">In preparation</font></b>
 
-[ENG] <b>Boljka, L.</b>, and T. Birner: Intensification of the atmospheric circulation with stronger extratropical tropopause inversion layer. In prep. 
-
-[ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis: A stratosphere-troposphere and Atlantic Ocean coupled multi-decadal oscillation. In prep. 
+[ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. In prep. 
 
 <b><font color="slateblue">Submitted/In review/In press</font></b>
+
+[ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. Submitted. 
 
 [ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: Indices of the Hadley circulation strength and associated circulation trends. In review. [Discussion open <a href="https://doi.org/10.5194/wcd-2021-50">on WCD website</a>] 
 
