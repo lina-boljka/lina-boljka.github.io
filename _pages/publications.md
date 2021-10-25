@@ -15,7 +15,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. In prep. 
 
-[ENG] <b>Boljka, L.</b>, N.-E. Omrani, ...: Intrinsic variability of the El Niño Southern Oscillation. In prep. 
+[ENG] <b>Boljka, L.</b>, N.-E. Omrani, and N. S. Keenlyside: Intrinsic variability of the El Niño Southern Oscillation. In prep. 
 
 [ENG] Keenlyside, N. S., <b>et al.</b>: Towards providing more reliable regional climate change projections. In prep.
 
