@@ -19,11 +19,11 @@ author_profile: true
 
 [ENG] Keenlyside, N. S., <b>et al.</b>: Towards providing more reliable regional climate change projections. In prep.
 
-[ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. In prep. 
-
 <b><font color="slateblue">Submitted/In review/In press</font></b>
 
-[ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: Indices of the Hadley circulation strength and associated circulation trends. In review. [Discussion open <a href="https://doi.org/10.5194/wcd-2021-50">on WCD website</a>] 
+[ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. In prep. 
+
+[ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: <a href="https://doi.org/10.5194/wcd-2021-50">Indices of the Hadley circulation strength and associated circulation trends</a>. In review. 
 
 [ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>: Recent Hadley circulation strengthening: a trend or multidecadal variability? In review.
 
