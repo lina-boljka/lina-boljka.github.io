@@ -66,7 +66,7 @@ Collaborations (external)
 
 Media (Slovenian only)
 ======
-* Oct 2021: A column for Finance on <a href="https://manager.finance.si/8981441/Podnebje-prihodnosti-ali-kako-resno-bi-bilo-treba-jemati-opozorila">Future climate</a>.
+* Oct 2021: A column for <a href="https://manager.finance.si/8981441/Podnebje-prihodnosti-ali-kako-resno-bi-bilo-treba-jemati-opozorila">Finance</a> on Future climate.
 * Aug 2021: Interview for <a href="https://novice.svet24.si/clanek/novice/slovenija/61192ceb68331/sredozemlje-v-plamenih-zadnji-alarm-za-podnebno-krizo">Svet24</a> on recent IPCC report (together with A. Slameršak).
 * Aug 2021: Interview for <a href="https://revijazarja.si/clanek/zgodbe/61113e4fa9a3a/zivimo-v-prelomnem-letu">Zarja/Jana</a> on recent heat, fires, floods across the globe.
 * Apr 2021: Interview for <a href="https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji">Svet24</a> on weather extremes now and in the future (together with A. Sušnik and N. Črnivec). 
