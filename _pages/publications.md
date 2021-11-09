@@ -61,9 +61,9 @@ author_profile: true
 
 [SLO] Slameršak, A., Ž. Zaplotnik, <b>L. Boljka</b>, N. Črnivec,  2020: <a href="https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view?usp=sharing">Suggestions for a political programme for a "green" transition (towards sustainability) and a minimisation of climate change impacts.</a> 4 pp. <small>[SLO] Media: <a href="https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/">Delo - Sobotna Priloga</a>.</small>
 
-[SLO] Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, A. Slameršak, 2020: <a href="http://www.meteo-drustvo.si/glasilo/">Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy.</a> <i>Vetrnica (Interesting facts)</i>, 12-13., 6-11.
+[SLO] Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, A. Slameršak, 2020: <a href="http://www.meteo-drustvo.si/glasilo/arhiv-vetrnic/">Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy.</a> <i>Vetrnica (Interesting facts)</i>, 12-13., 6-11.
 
-[SLO] <b>Boljka, L.</b>, 2020: <a href="http://www.meteo-drustvo.si/glasilo/">Baroclinic and barotropic oscillations in midlatitudes.</a> <i>Vetrnica (PhD summaries)</i>, 12-13, 63-66.
+[SLO] <b>Boljka, L.</b>, 2020: <a href="http://www.meteo-drustvo.si/glasilo/arhiv-vetrnic/">Baroclinic and barotropic oscillations in midlatitudes.</a> <i>Vetrnica (PhD summaries)</i>, 12-13, 63-66.
 
 [SLO] <b>Boljka, L.</b>, Ž. Zaplotnik, A. Slameršak, N. Črnivec, 2020: <a href="https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view?usp=sharing">Comments and suggestions on the draft of the Slovenian long-term climate change strategy</a>. <i>A letter to the Slovenian Ministry for the Environment</i>, 2 pp. <small>[SLO] Media: <a href="https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&">OE Finance</a>, <a href="http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/">Meteorolog.si</a>, <a href="https://4d.rtvslo.si/arhiv/globus/174722022">Globus</a>, <a href="http://omladic.blogspot.com/2020/10/drzavna-podnebna-strategija-in-dva.html">Luka Omladič Blog</a>.</small>
 
