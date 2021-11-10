@@ -66,7 +66,7 @@ Collaborations (external)
 
 Media (Slovenian only)
 ======
-<b>Columns for Finance</b>
+<b>Columns for Finance Manager</b>
 
 * Oct 2021: <a href="https://manager.finance.si/8981441/Podnebje-prihodnosti-ali-kako-resno-bi-bilo-treba-jemati-opozorila">Climate of the future or how seriously should we take the warnings?</a>
 
