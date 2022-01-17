@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently work at the Geophysical Institute, University of Bergen. My research focuses on climate dynamics, e.g., ocean-atmosphere interaction, stratosphere-troposphere interactions, storm track dynamics, wave-mean flow interactions, (regional) climate variability and change, as well as their societal impacts and potential for long-term predicability. My research interests also include asymptotic methods, model hierarchies, teleconnection patterns, and interdisciplinary studies. I am also active in communicating climate change in Slovenia (as part of projects <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view">RESCCCUE</a> & <a href="https://twitter.com/podnebnik">@podnebnik</a>).
+I currently work at the Geophysical Institute, University of Bergen. My research focuses on climate dynamics, e.g., ocean-atmosphere interaction, stratosphere-troposphere interactions, storm track dynamics, wave-mean flow interactions, (regional) climate variability and change, as well as their societal impacts and potential for long-term predicability. My research interests also include asymptotic methods, model hierarchies, teleconnection patterns, and interdisciplinary studies. I am also active in communicating climate change in Slovenia (as part of projects <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view">RESCCCUE</a> & Podnebnik: <a href="https://twitter.com/podnebnik">@Twitter</a>, <a href="https://medium.com/podnebnik">@Medium</a>).
 
 For more details on my work see my blog posts and publications. 
 
