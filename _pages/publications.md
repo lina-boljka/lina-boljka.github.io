@@ -27,7 +27,7 @@ author_profile: true
 
 <b><font color="slateblue">2022</font></b>
 
-[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, 2022: Recent Hadley circulation strengthening: a trend or multidecadal variability? <i>J. Climate</i>, accepted.
+[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, 2022: <a href="https://doi.org/10.1175/JCLI-D-21-0204.1">Recent Hadley circulation strengthening: a trend or multidecadal variability?</a> <i>J. Climate</i>, accepted.
 
 <b><font color="slateblue">2021</font></b>
 
