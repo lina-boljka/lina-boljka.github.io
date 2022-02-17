@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-In Slovenian 
-======
+<b><font color="teal"><u>In Slovenian</u></font></b></br>
+
 <b>Columns for Finance Manager</b>
 
 * Jan 2022: <a href="https://manager.finance.si/8985368/Podnebne-spremembe-so-bile-vedno-Zakaj-so-zdajsnje-tako-alarmantne">Climate change has always happened. Why is it so alarming now?</a>
