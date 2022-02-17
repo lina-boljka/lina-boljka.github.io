@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Media"
+title: "[SLO] Media"
 permalink: /media/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Media (Slovenian only)
+In Slovenian 
 ======
 <b>Columns for Finance Manager</b>
 
