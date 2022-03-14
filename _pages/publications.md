@@ -57,7 +57,7 @@ author_profile: true
 
 <b><font color="teal"><u>In Slovenian</u></font></b>
 
-<b><font color="teal">Submitted/In review/In press</font></b>
+#<b><font color="teal">Submitted/In review/In press</font></b>
 
 <b><font color="teal">2020</font></b>
 
