@@ -13,7 +13,7 @@ author_profile: true
 
 <b><font color="slateblue">In preparation</font></b>
 
-[ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. In prep. [<a href="https://github.com/lina-boljka/gfdl-fms">Model code</a>]
+[ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. In prep. [<a href="https://github.com/lina-boljka/gfdl-fms">Model Code</a>]
 
 [ENG] <b>Boljka, L.</b>, N.-E. Omrani, and N. S. Keenlyside: Intrinsic variability of the El Niño Southern Oscillation. In prep. 
 
