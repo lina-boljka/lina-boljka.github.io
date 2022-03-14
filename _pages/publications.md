@@ -13,7 +13,7 @@ author_profile: true
 
 <b><font color="slateblue">In preparation</font></b>
 
-[ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. In prep. 
+[ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. In prep. [<a href="https://github.com/lina-boljka/gfdl-fms">Model code</a>]
 
 [ENG] <b>Boljka, L.</b>, N.-E. Omrani, and N. S. Keenlyside: Intrinsic variability of the El Niño Southern Oscillation. In prep. 
 
@@ -23,11 +23,11 @@ author_profile: true
 
 [ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. In review. 
 
-[ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: <a href="https://doi.org/10.5194/wcd-2021-50">Indices of the Hadley circulation strength and associated circulation trends</a>. In review. 
+[ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: <a href="https://doi.org/10.5194/wcd-2021-50">Indices of the Hadley circulation strength and associated circulation trends</a>. In review. [<a href="https://github.com/zaplotnik/Hadley-cell-strength">Code for Indices</a>]
 
 <b><font color="slateblue">2022</font></b>
 
-[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, 2022: <a href="https://doi.org/10.1175/JCLI-D-21-0204.1">Recent Hadley circulation strengthening: a trend or multidecadal variability?</a> <i>J. Climate</i>, accepted.
+[ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, 2022: <a href="https://doi.org/10.1175/JCLI-D-21-0204.1">Recent Hadley circulation strengthening: a trend or multidecadal variability?</a> <i>J. Climate</i>, accepted. [<a href="https://github.com/mpikovnik/Evaluating-contributions-to-global-Hadley-cell-using-Kuo-Eliassen-equation">Code for Kuo-Eliassen Equation</a>]
 
 <b><font color="slateblue">2021</font></b>
 
