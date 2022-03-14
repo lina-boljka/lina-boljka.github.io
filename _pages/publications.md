@@ -19,13 +19,13 @@ author_profile: true
 
 [ENG] Keenlyside, N. S., <b>et al.</b>: Towards providing more reliable regional climate change projections. In prep.
 
-<b><font color="slateblue">Submitted/In review/In press</font></b>
-
-[ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. In review. 
+<b><font color="slateblue">Submitted/In review</font></b>
 
 [ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: <a href="https://doi.org/10.5194/wcd-2021-50">Indices of the Hadley circulation strength and associated circulation trends</a>. In review. [<a href="https://github.com/zaplotnik/Hadley-cell-strength">Code for Indices</a>]
 
 <b><font color="slateblue">2022</font></b>
+
+[ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis: Atlantic atmosphere-ocean multidecadal oscillation: a key for improved near-future climate projection. npj Climate and Atmospheric Science, accepted subject to minor revision. 
 
 [ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, 2022: <a href="https://doi.org/10.1175/JCLI-D-21-0204.1">Recent Hadley circulation strengthening: a trend or multidecadal variability?</a> <i>J. Climate</i>, accepted. [<a href="https://github.com/mpikovnik/Evaluating-contributions-to-global-Hadley-cell-using-Kuo-Eliassen-equation">Code for Kuo-Eliassen Equation</a>]
 
@@ -57,7 +57,7 @@ author_profile: true
 
 <b><font color="teal"><u>In Slovenian</u></font></b>
 
-<!--<b><font color="teal">Submitted/In review/In press</font></b>-->
+<!--<b><font color="teal">Submitted/In review</font></b>-->
 
 <b><font color="teal">2020</font></b>
 
