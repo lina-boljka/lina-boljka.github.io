@@ -9,7 +9,7 @@ author_profile: true
 
 <i>All outreach activities are in Slovenian language and mostly happen through projects <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view">RESCCCUE</a> and Podnebnik: <a href="https://podnebnik.org/en/">Website</a>, <a href="https://twitter.com/podnebnik">@Twitter</a>, <a href="https://medium.com/podnebnik">@Medium</a>).</i>
 
-<b><font color="teal">Columns for Finance Manager</font></b>
+<b><font color="teal">Columns/Commentaries for Finance Manager</font></b>
 
 * Mar 2022: <a href="...">Nuclear winter</a> [sheduled]
 * Jan 2022: <a href="https://manager.finance.si/8985368/Podnebne-spremembe-so-bile-vedno-Zakaj-so-zdajsnje-tako-alarmantne">Climate change has always happened. Why is it so alarming now?</a>
