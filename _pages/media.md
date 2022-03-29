@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<i>All outreach activities are in Slovenian language and happen through projects <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view">RESCCCUE</a> and Podnebnik: <a href="https://podnebnik.org/en/">Website</a>, <a href="https://twitter.com/podnebnik">@Twitter</a>, <a href="https://medium.com/podnebnik">@Medium</a>).</i>
+<i>All outreach activities are in Slovenian language and mostly happen through projects <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view">RESCCCUE</a> and Podnebnik: <a href="https://podnebnik.org/en/">Website</a>, <a href="https://twitter.com/podnebnik">@Twitter</a>, <a href="https://medium.com/podnebnik">@Medium</a>).</i>
 
 <b><font color="teal">Columns for Finance Manager</font></b>
 
