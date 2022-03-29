@@ -13,7 +13,7 @@ redirect_from:
 
 <b><font color="teal">Columns for Finance Manager</font></b>
 
-* Mar 2022: <a href="...">Nuclear winter</a>
+* Mar 2022: <a href="...">Nuclear winter</a> [sheduled]
 * Jan 2022: <a href="https://manager.finance.si/8985368/Podnebne-spremembe-so-bile-vedno-Zakaj-so-zdajsnje-tako-alarmantne">Climate change has always happened. Why is it so alarming now?</a>
 * Oct 2021: <a href="https://manager.finance.si/8981441/Podnebje-prihodnosti-ali-kako-resno-bi-bilo-treba-jemati-opozorila">Climate of the future or how seriously should we take the warnings?</a>
 
