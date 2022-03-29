@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<i>All outreach activities are in Slovenian language.</i>
+<i>All outreach activities are in Slovenian language and happen through projects RESCCCUE and Podnebnik.</i>
 
 <b><font color="teal">Columns for Finance Manager</font></b>
 
