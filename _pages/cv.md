@@ -64,9 +64,9 @@ Collaborations (external)
 
   I also collaborate with my colleagues from Slovenia (<a href="https://zaplotnik.github.io">Žiga Zaplotnik</a>, <a href="https://ninacrnivec.github.io">Nina Črnivec</a>, <a href="https://ictaweb.uab.cat/personal_detail.php?id=4088">Aljoša Slameršak</a>, and others) mostly on informing the Slovenian general public and politicians of the climate change impacts and how to address them - projects <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view?usp=sharing">RESCCCUE</a> & Podnebnik: <a href="https://podnebnik.org/en/">Website</a>, <a href="https://twitter.com/podnebnik">@Twitter</a>, <a href="https://medium.com/podnebnik">@Medium</a>; some links related to Slovenian meterology can be found <a href="https://ninacrnivec.github.io/meteoSI/">here</a>.
 
-Media (Slovenian only)
+Outreach (Slovenian only)
 ======
-  See Media tab.
+  See Outreach tab.
  
 Publications
 ======
