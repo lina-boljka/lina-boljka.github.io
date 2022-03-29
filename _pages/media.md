@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Media"
+title: "Outreach"
 permalink: /media/
 author_profile: true
 redirect_from:
@@ -9,15 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-<b><font color="teal"><u>In Slovenian</u></font></b>
+<i>All outreach activities are in Slovenian language.</i>
 
 <b><font color="teal">Columns for Finance Manager</font></b>
 
 * Jan 2022: <a href="https://manager.finance.si/8985368/Podnebne-spremembe-so-bile-vedno-Zakaj-so-zdajsnje-tako-alarmantne">Climate change has always happened. Why is it so alarming now?</a>
 * Oct 2021: <a href="https://manager.finance.si/8981441/Podnebje-prihodnosti-ali-kako-resno-bi-bilo-treba-jemati-opozorila">Climate of the future or how seriously should we take the warnings?</a>
 
-<b><font color="teal">Other</font></b>
+<b><font color="teal">Letters etc. to the Government</font></b>
 
+<b><font color="teal">Popular scientific talks</font></b>
+
+<b><font color="teal">Other Media</font></b>
+* Apr 2022: Interview for Novinarji.si on ozone hole. [sheduled]
+* Mar 2022: Online panel discussion on climate crisis at the University of Ljubljana. [sheduled]
 * Aug 2021: Interview for <a href="https://novice.svet24.si/clanek/novice/slovenija/61192ceb68331/sredozemlje-v-plamenih-zadnji-alarm-za-podnebno-krizo">Svet24</a> on recent IPCC report (together with A. Slameršak).
 * Aug 2021: Interview for <a href="https://revijazarja.si/clanek/zgodbe/61113e4fa9a3a/zivimo-v-prelomnem-letu">Zarja/Jana</a> on recent heat, fires, floods across the globe.
 * Apr 2021: Interview for <a href="https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji">Svet24</a> on weather extremes now and in the future (together with A. Sušnik and N. Črnivec). 
