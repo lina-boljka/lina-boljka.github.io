@@ -21,6 +21,11 @@ redirect_from:
 
 <b><font color="teal">Popular scientific talks</font></b>
 
+<ul>
+  <li> Jul 2020: [SLO] ‘Climate variability vs climate change’ (invited popular scientific talk), Society of Slovenians educated abroad (Zoom Webinar). <a href="https://drive.google.com/file/d/1VGxcQkaw6k14MY3SZIDPEI6MiYwkDcxd/view?usp=sharing">slides</a>, <a href="https://www.drustvovtis.si/si/blog-clanki/2015/10/15/ramen-fdlra-lbr2z-z2a5w-jgs4c-cjxz3-4gkp4">event summary,</a> <a href="https://www.youtube.com/watch?v=gvVdZWX2DKM&t=219sTrije">event video.</a> </li> 
+  <li> Feb 2020: [SLO] ‘Variability of the climate system’ (invited popular scientific talk), House of Experiments (Ljubljana, Slovenia). <a href="https://drive.google.com/open?id=1tEyJrT-_p2mtKdrwRftDeX9QhDnU2UVj">slides</a> </li> 
+</ul>
+
 <b><font color="teal">Other Media</font></b>
 
 * Apr 2022: Interview for Novinarji.si on ozone hole. [sheduled]
