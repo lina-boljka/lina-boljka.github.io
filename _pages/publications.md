@@ -61,8 +61,6 @@ author_profile: true
 
 <b><font color="teal">2020</font></b>
 
-[SLO] Slameršak, A., Ž. Zaplotnik, <b>L. Boljka</b>, N. Črnivec,  2020: <a href="https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view?usp=sharing">Suggestions for a political programme for a "green" transition (towards sustainability) and a minimisation of climate change impacts.</a> 4 pp. <small>[SLO] Media: <a href="https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/">Delo - Sobotna Priloga</a>.</small>
-
 [SLO] Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, A. Slameršak, 2020: <a href="http://www.meteo-drustvo.si/glasilo/arhiv-vetrnic/">Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy.</a> <i>Vetrnica (Interesting facts)</i>, 12-13., 6-11.
 
 [SLO] <b>Boljka, L.</b>, 2020: <a href="http://www.meteo-drustvo.si/glasilo/arhiv-vetrnic/">Baroclinic and barotropic oscillations in midlatitudes.</a> <i>Vetrnica (PhD summaries)</i>, 12-13, 63-66.
