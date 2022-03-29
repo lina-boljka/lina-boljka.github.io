@@ -59,6 +59,8 @@ author_profile: true
 
 <!--<b><font color="teal">Submitted/In review</font></b>-->
 
+<i>For more publications in Slovenian see also the Outreach tab!</i>
+
 <b><font color="teal">2020</font></b>
 
 [SLO] Zaplotnik, Ž., <b>L. Boljka</b>, N. Črnivec, A. Slameršak, 2020: <a href="http://www.meteo-drustvo.si/glasilo/arhiv-vetrnic/">Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy.</a> <i>Vetrnica (Interesting facts)</i>, 12-13., 6-11.
