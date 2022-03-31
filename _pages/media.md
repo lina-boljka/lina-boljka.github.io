@@ -18,7 +18,7 @@ author_profile: true
 <b><font color="teal">Other Media</font></b>
 
 * Apr 2022: Featured at VTIS' "Big steps". [sheduled]
-* Apr 2022: Interview for Novinarji.si on ozone hole. [sheduled]
+* Apr 2022: Interview for Novinarji.si on ozone hole (together with Ž. Zaplotnik). [sheduled]
 * Mar 2022: Online panel discussion on climate crisis at the University of Ljubljana, aktv.si. (together with L. Kajfež-Bogataj, G. Majdič, I. O. Ožbolt; led by N. Briški). [sheduled]
 * Aug 2021: Interview for <a href="https://novice.svet24.si/clanek/novice/slovenija/61192ceb68331/sredozemlje-v-plamenih-zadnji-alarm-za-podnebno-krizo">Svet24</a> on recent IPCC report (together with A. Slameršak).
 * Aug 2021: Interview for <a href="https://revijazarja.si/clanek/zgodbe/61113e4fa9a3a/zivimo-v-prelomnem-letu">Zarja/Jana</a> on recent heat, fires, floods across the globe.
