@@ -17,8 +17,8 @@ author_profile: true
 
 <b><font color="teal">Other Media</font></b>
 
-* Apr 2022: Featured at VTIS' <a href="https://www.linkedin.com/posts/dru%C5%A1tvo-vtis-7a851a160_velikikoraki-velikikorakimajhnihljudi-druagptvo-activity-6919594025964429313-B3tD?utm_source=linkedin_share&utm_medium=member_desktop_web">"Big steps"</a>. 
 * Apr 2022: Interview for Novinarji.si on ozone hole (together with Ž. Zaplotnik). 
+* Apr 2022: Featured at VTIS' <a href="https://www.linkedin.com/posts/dru%C5%A1tvo-vtis-7a851a160_velikikoraki-velikikorakimajhnihljudi-druagptvo-activity-6919594025964429313-B3tD?utm_source=linkedin_share&utm_medium=member_desktop_web">"Big steps"</a>. 
 * Apr 2022: Discussion on Radio Študent - Suspenzor on <a href="https://radiostudent.si/druzba/suspenzor/sport-ki-mu-sledi-vreme">sports and climate change</a>.
 * Mar 2022: Online panel discussion on climate crisis at the University of Ljubljana, aktv.si. (together with L. Kajfež-Bogataj, G. Majdič, I. O. Ožbolt; led by N. Briški). 
 * Aug 2021: Interview for <a href="https://novice.svet24.si/clanek/novice/slovenija/61192ceb68331/sredozemlje-v-plamenih-zadnji-alarm-za-podnebno-krizo">Svet24</a> on recent IPCC report (together with A. Slameršak).
