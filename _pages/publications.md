@@ -19,7 +19,7 @@ author_profile: true
 
 <b><font color="slateblue">Submitted/In review</font></b>
 
-[ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. In prep. <!--[<a href="https://github.com/lina-boljka/gfdl-fms">Model Code</a>]-->
+[ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. Submitted. <!--[<a href="https://github.com/lina-boljka/gfdl-fms">Model Code</a>]-->
 
 [ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar: <a href="https://doi.org/10.5194/wcd-2021-50">Indices of the Hadley circulation strength and associated circulation trends</a>. In review. [<a href="https://github.com/zaplotnik/Hadley-cell-strength">Code for Hadley Cell Indices</a>]
 
