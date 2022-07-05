@@ -59,7 +59,7 @@ author_profile: true
 
 <!--<b><font color="teal">Submitted/In review</font></b>-->
 
-<i>For more publications in Slovenian see also the Outreach tab!</i>
+<i>For more publications in Slovenian see the Outreach tab!</i>
 
 <b><font color="teal">2020</font></b>
 
