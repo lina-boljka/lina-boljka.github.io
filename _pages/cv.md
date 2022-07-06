@@ -59,11 +59,11 @@ Awards etc.
 * Oct 2009 - Jul 2012: Awarded Dean’s Award three consecutive years for outstanding academic achievement (University of Ljubljana).
 * Sep 2006 - Jul 2012: Awarded studentship for secondary school and undergraduate degree by The Municipality of Ljubljana Fund for talented students.
 
-Collaborations (external)
+<!--Collaborations (external)
 ======
   I collaborate with experts in different fields (incl. <a href="https://chem.ku.dk/ansatte/alle/?pure=en/persons/81047">Matthew Johnson</a>, <a href="https://laverne.edu/directory/person/david-bickford/">David Bickford</a>, Thomas Sparks, Benjamin Moss, Linnea Luupala, Vanessa Burns)  in order to address environmental, ethical, legal etc. implications of climate change.
 
-  I also collaborate with my colleagues from Slovenia (<a href="https://zaplotnik.github.io">Žiga Zaplotnik</a>, <a href="https://ninacrnivec.github.io">Nina Črnivec</a>, <a href="https://ictaweb.uab.cat/personal_detail.php?id=4088">Aljoša Slameršak</a>, and others) mostly on informing the Slovenian general public and politicians of the climate change impacts and how to address them - projects <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view?usp=sharing">RESCCCUE</a> & Podnebnik: <a href="https://podnebnik.org/en/">Website</a>, <a href="https://twitter.com/podnebnik">@Twitter</a>, <a href="https://medium.com/podnebnik">@Medium</a>; some links related to Slovenian meterology can be found <a href="https://ninacrnivec.github.io/meteoSI/">here</a>.
+  I collaborate with my colleagues from Slovenia (<a href="https://zaplotnik.github.io">Žiga Zaplotnik</a>, <a href="https://ninacrnivec.github.io">Nina Črnivec</a>, <a href="https://ictaweb.uab.cat/personal_detail.php?id=4088">Aljoša Slameršak</a>, and others) mostly on informing the Slovenian general public and politicians of the climate change impacts and how to address them - projects <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view?usp=sharing">RESCCCUE</a> & Podnebnik: <a href="https://podnebnik.org/en/">Website</a>, <a href="https://twitter.com/podnebnik">@Twitter</a>, <a href="https://medium.com/podnebnik">@Medium</a>; some links related to Slovenian meterology can be found <a href="https://ninacrnivec.github.io/meteoSI/">here</a>.-->
 
 Outreach (Slovenian only)
 ======
