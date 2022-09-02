@@ -13,11 +13,11 @@ author_profile: true
 
 <b><font color="slateblue">In preparation</font></b>
 
-[ENG] <b>Boljka, L.</b>, N.-E. Omrani, and N. S. Keenlyside: Intrinsic variability of the El Niño Southern Oscillation. In prep. 
-
 [ENG] Keenlyside, N. S., <b>et al.</b>: Towards providing more reliable regional climate change projections. In prep.
 
 <b><font color="slateblue">Submitted/In review</font></b>
+
+[ENG] <b>Boljka, L.</b>, N.-E. Omrani, and N. S. Keenlyside: Identifying quasi-periodic variability using multivariate empirical mode decomposition: a case of the tropical Pacific. Submitted. [Discussion started <a href="https://wcd.copernicus.org/preprints/wcd-2022-51/">here</a>.] 
 
 [ENG] <b>Boljka, L.</b>, and T. Birner: Impact of tropopause sharpness on the structure and strength of the general circulation. Submitted. <!--[<a href="https://github.com/lina-boljka/gfdl-fms">Model Code</a>]-->
 
