@@ -11,6 +11,7 @@ author_profile: true
 
 <b><font color="teal">Columns/Commentaries for Finance Manager</font></b>
 
+* Sep 2022: Why have heat waves become more frequent and why should we take action?
 * Mar 2022: <a href="https://manager.finance.si/8998308/Jedrska-zima">Nuclear winter</a> 
 * Jan 2022: <a href="https://manager.finance.si/8985368/Podnebne-spremembe-so-bile-vedno-Zakaj-so-zdajsnje-tako-alarmantne">Climate change has always happened. Why is it so alarming now?</a>
 * Oct 2021: <a href="https://manager.finance.si/8981441/Podnebje-prihodnosti-ali-kako-resno-bi-bilo-treba-jemati-opozorila">Climate of the future or how seriously should we take the warnings?</a>
