@@ -19,7 +19,7 @@ author_profile: true
 
 [ENG] <b>Boljka, L.</b>, N.-E. Omrani, and N. S. Keenlyside: Identifying quasi-periodic variability using multivariate empirical mode decomposition: a case of the tropical Pacific. Submitted. [Discussion started <a href="https://wcd.copernicus.org/preprints/wcd-2022-51/">here</a>.] 
 
-[ENG] <b>Boljka, L.</b>, and T. Birner, 2022: Impact of tropopause sharpness on the structure and strength of the general circulation. <i>npj Clim. Atmos. Sci.</i>, accepted. [<a href="https://github.com/lina-boljka/gfdl-fms">Model Code</a>]
+[ENG] <b>Boljka, L.</b>, and T. Birner, 2022: Potential impact of tropopause sharpness on the structure and strength of the general circulation. <i>npj Clim. Atmos. Sci.</i>, accepted. [<a href="https://github.com/lina-boljka/gfdl-fms">Model Code</a>]
 
 <b><font color="slateblue">2022</font></b>
 
