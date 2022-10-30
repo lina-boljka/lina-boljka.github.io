@@ -11,6 +11,7 @@ author_profile: true
 
 <b><font color="teal">Columns/Commentaries for Finance Manager</font></b>
 
+* Nov 2022: Will cold extremes become more frequent in the future?
 * Sep 2022: <a href="https://manager.finance.si/9003787/Zakaj-so-vrocinski-valovi-vse-pogostejsi-in-zakaj-je-treba-ukrepati-takoj">Why have heat waves become more frequent and why should we take action?</a>
 * Mar 2022: <a href="https://manager.finance.si/8998308/Jedrska-zima">Nuclear winter</a> 
 * Jan 2022: <a href="https://manager.finance.si/8985368/Podnebne-spremembe-so-bile-vedno-Zakaj-so-zdajsnje-tako-alarmantne">Climate change has always happened. Why is it so alarming now?</a>
@@ -44,7 +45,7 @@ author_profile: true
 
 <b><font color="teal">2020</font></b>
 
-[SLO] Slameršak, A., Ž. Zaplotnik, <b>L. Boljka</b>, N. Črnivec,  2020: <a href="https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view?usp=sharing">Suggestions for a political programme for a "green" transition (towards sustainability) and a minimisation of climate change impacts.</a> 4 pp. 
+[SLO] Slameršak, A., Ž. Zaplotnik, <b>L. Boljka</b>, N. Črnivec,  2020: <a href="https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view?usp=sharing">Suggestions for a political programme for a "green" transition (towards sustainability) and a minimisation of climate change impacts.</a> 4 pp. Provided to the Ministry of Environment and Spatial Panning in October 2022.
 * [SLO] Media coverage: <a href="https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/">Delo - Sobotna Priloga</a>.
 
 [SLO] <b>Boljka, L.</b>, Ž. Zaplotnik, A. Slameršak, N. Črnivec, 2020: <a href="https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view?usp=sharing">Comments and suggestions on the draft of the Slovenian long-term climate change strategy</a>. <i>A letter to the Slovenian Ministry for the Environment</i>, 2 pp.
