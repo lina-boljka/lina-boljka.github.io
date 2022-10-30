@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* Autumn 2020 - present: Researcher
+* Autumn 2020 - present: Researcher / Postdoctoral Fellow
   * University of Bergen, Geophysical Institute & Bjerknes Centre for Climate Research 
   * Duties included: Analysing reanalysis, and climate model data to better understand climate variability and its role in long-term prediction (summertime blocking, Hadley cell, El Niño Southern Oscillation, Atlantic multidecadal variability, teleconnections). @Bjerknes Centre Prediction Unit
   * Advisors: Dr. Nour-Eddine Omrani, Prof. Noel S. Keenlyside 
