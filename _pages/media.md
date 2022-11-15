@@ -19,8 +19,8 @@ author_profile: true
 
 <b><font color="teal">Other Media</font></b>
 
-* Nov 2022: A comment on COP27 expectations for magazine Jana.
 <!-- * Apr 2022: Interview for Novinarji.si on ozone hole (together with Ž. Zaplotnik). -->
+* Nov 2022: A comment on COP27 expectations for magazine Jana.
 * Apr 2022: Interview for Podobe Znanja (Radio Program ARS) on <a href="https://ars.rtvslo.si/2022/04/lina-boljka/">climate predictability and change.</a> <!--Another link: "https://365.rtvslo.si/arhiv/podobe-znanja/174866605"-->
 * Apr 2022: Featured at VTIS' <a href="https://www.linkedin.com/posts/dru%C5%A1tvo-vtis-7a851a160_velikikoraki-velikikorakimajhnihljudi-druagptvo-activity-6919594025964429313-B3tD?utm_source=linkedin_share&utm_medium=member_desktop_web">"Big steps"</a>. 
 * Apr 2022: Discussion on Radio Študent - Suspenzor on <a href="https://radiostudent.si/druzba/suspenzor/sport-ki-mu-sledi-vreme">sports and climate change</a>.
