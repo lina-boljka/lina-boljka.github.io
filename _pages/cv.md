@@ -47,6 +47,7 @@ Skills
 
 Awards, Prizes & Certificates
 ======
+* Dec 2022: Received volunteer appreciation certificate by society of Slovenian community educated abroad for work as a member of Scandinavia local committee.
 * Jun 2022: Awarded the <a href="https://www.rmets.org/journal-editors-awards-2021">Quarterly Journal Prize Reviewer’s Certificate</a> for 2021 by the Royal Meteorological Society. [<a href="https://www.rmets.org/news/royal-meteorological-society-awards-and-prizes-2021-winners">news story</a>]
 * Jul 2021: Received the AGU 2020 <a href="https://eos.org/agu-news/in-appreciation-of-agus-outstanding-reviewers-of-2020">Editors' Citation for Excellence in Refereeing for JGR-Atmospheres</a>.
 * Jun 2020: Awarded <a href="https://www.emetsoc.org/oc2020-for-rescccue-slovenia/">European Meteorological Society Outreach and Communication Award</a> for the ongoing project <a href="https://drive.google.com/file/d/14kKhqvhMYvILBhosecHA4HwMZpYnX338/view?usp=sharing">RESCCCUE</a> together with Žiga Zaplotnik, Nina Črnivec and Aljoša Slameršak. [<a href="https://drive.google.com/file/d/1nOGlKVa0tWz-9K8oFSc8ZZ92JskJYIGa/view?usp=sharing">List of outreach activites before May 20th 2020.</a>] <a href="https://www.youtube.com/watch?v=3taZqPIbZh4">Awards ceremony.</a>
