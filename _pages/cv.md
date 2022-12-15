@@ -59,7 +59,7 @@ Awards, Prizes & Certificates
 
 Funding (Bursaries/travel grants, Studentships)
 ======
-* Jan 2023 - Dec 2023: Awarded Bjerknes Centre seed funding Fast Track Initiative (~470kNOK tot)
+* Jan 2023 - Dec 2023: Awarded Bjerknes Centre seed funding (Fast Track Initiative; ~470kNOK tot)
 * Sep 2018: Received a bursary (travel grant) by SPARC to attend the 'SPARC General Assembly' (Kyoto, Japan). (~500CHF tot)
 * Sep 2016: Received a bursary (travel grant) by the University of Cambridge (Department of Applied Mathematics and Theoretical Physics) to attend the ‘Fluid Dynamics of Sustainability and the Environment’ Summer School (Cambridge, UK). (~1000£ tot)
 * Oct 2014 - Sep 2018: Awarded studentship for PhD degree by The University of Reading PhD Studentship.
