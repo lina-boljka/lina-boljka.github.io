@@ -59,12 +59,12 @@ Awards, Prizes & Certificates
 
 Funding (Bursaries/travel grants, Studentships)
 ======
-* Jan 2023 - Dec 2023: Awarded Bjerknes Centre seed funding (Fast Track Initiative; ~470kNOK tot)
-* Sep 2018: Received a bursary (travel grant) by SPARC to attend the 'SPARC General Assembly' (Kyoto, Japan). (~500CHF tot)
-* Sep 2016: Received a bursary (travel grant) by the University of Cambridge (Department of Applied Mathematics and Theoretical Physics) to attend the ‘Fluid Dynamics of Sustainability and the Environment’ Summer School (Cambridge, UK). (~1000£ tot)
+* Jan 2023 - Dec 2023: Awarded Bjerknes Centre seed funding (Fast Track Initiative)<!--; <!--~470kNOK tot)-->
+* Sep 2018: Received a bursary (travel grant) by SPARC to attend the 'SPARC General Assembly' (Kyoto, Japan). <!--(~500CHF tot)-->
+* Sep 2016: Received a bursary (travel grant) by the University of Cambridge (Department of Applied Mathematics and Theoretical Physics) to attend the ‘Fluid Dynamics of Sustainability and the Environment’ Summer School (Cambridge, UK). <!--(~1000£ tot)-->
 * Oct 2014 - Sep 2018: Awarded studentship for PhD degree by The University of Reading PhD Studentship.
-* Oct 2012 - Oct 2013: Awarded studentship for MSc degree by The Slovenian Scholarship Fund Ad Futura. (~18kEUR tot)
-* Sep 2006 - Jul 2012: Awarded studentship for secondary school and undergraduate degree by The Municipality of Ljubljana Fund for talented students. (~180EUR pm)
+* Oct 2012 - Oct 2013: Awarded studentship for MSc degree by The Slovenian Scholarship Fund Ad Futura. <!--(~18kEUR tot)-->
+* Sep 2006 - Jul 2012: Awarded studentship for secondary school and undergraduate degree by The Municipality of Ljubljana Fund for talented students. <!--(~180EUR pm)-->
 
 
 <!--Collaborations (external)
