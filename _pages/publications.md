@@ -21,7 +21,7 @@ author_profile: true
 
 <b><font color="slateblue">2022</font></b>
 
-[ENG] <b>Boljka, L.</b>, and T. Birner, 2022: <a href="https://doi.org/10.1038/s41612-022-00319-6">Potential impact of tropopause sharpness on the structure and strength of the general circulation</a>. <i>npj Clim. Atmos. Sci.</i>, 5:98. [<a href="https://github.com/lina-boljka/gfdl-fms">Model Code</a>, <a href="https://doi.org/10.5281/zenodo.7164684">Model Climatology</a>]
+[ENG] <b>Boljka, L.</b>, and T. Birner, 2022: <a href="https://doi.org/10.1038/s41612-022-00319-6">Potential impact of tropopause sharpness on the structure and strength of the general circulation</a>. <i>npj Clim. Atmos. Sci.</i>, 5:98. [<a href="https://github.com/lina-boljka/gfdl-fms">Model Code</a>, <a href="https://doi.org/10.5281/zenodo.7164684">Model Climatology</a>] <a href="https://www.en.meteo.physik.uni-muenchen.de/aktuelles/forschungshighlights_archiv/2022_12_birner/index.html">SNIPPET</a>
 
 [ENG] Omrani, N.-E., N. S. Keenlyside, K. Matthes, <b>L. Boljka</b>, D. Zanchettin, J. H. Jungclaus, and S. W. Lubis, 2022: <a href="https://doi.org/10.1038/s41612-022-00275-1">Coupled stratosphere-troposphere-Atlantic multidecadal oscillation and its importance for near-future climate projection</a>. <i>npj Clim. Atmos. Sci.</i>, 5:59. [<a href="https://github.com/lina-boljka/multi-linear-regression-projection">Multilinear Regression Code</a>]
 
