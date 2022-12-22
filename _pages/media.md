@@ -37,7 +37,7 @@ author_profile: true
 <b><font color="teal">Popular scientific talks</font></b>
 
 <ul>
-  <li> Sec 2022: [SLO] 'Variability of the  climate system on multidecadal timescales' (invited talk), Society of Slovenians educated abroad Simposium (Zoom Webinar). <a href="https://drive.google.com/file/d/1yxvtZCZsj3yoz11-3MLUBNzi-qr6HIu7/view?usp=sharing">slides</a></li>
+  <li> Dec 2022: [SLO] 'Variability of the  climate system on multidecadal timescales' (invited talk), Society of Slovenians educated abroad Simposium (Zoom Webinar). <a href="https://drive.google.com/file/d/1yxvtZCZsj3yoz11-3MLUBNzi-qr6HIu7/view?usp=sharing">slides</a></li>
   
   <li> Jul 2020: [SLO] ‘Climate variability vs climate change’ (invited popular scientific talk), Society of Slovenians educated abroad (Zoom Webinar). <a href="https://drive.google.com/file/d/1VGxcQkaw6k14MY3SZIDPEI6MiYwkDcxd/view?usp=sharing">slides</a>, <a href="https://www.drustvovtis.si/si/blog-clanki/2015/10/15/ramen-fdlra-lbr2z-z2a5w-jgs4c-cjxz3-4gkp4">event summary,</a> <a href="https://www.youtube.com/watch?v=gvVdZWX2DKM&t=219sTrije">event video.</a> </li> 
   
