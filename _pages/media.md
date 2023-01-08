@@ -49,7 +49,7 @@ author_profile: true
 
 <b><font color="teal">2020</font></b>
 
-[SLO] Slameršak, A., Ž. Zaplotnik, <b>L. Boljka</b>, N. Črnivec,  2020: <a href="https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view?usp=sharing">Suggestions for a political programme for a "green" transition (towards sustainability) and a minimisation of climate change impacts.</a> 4 pp. Provided to the Ministry of Environment and Spatial Panning in October 2022.
+[SLO] Slameršak, A., Ž. Zaplotnik, <b>L. Boljka</b>, N. Črnivec,  2020: <a href="https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view?usp=sharing">Suggestions for a political programme for a "green" transition (towards sustainability) and a minimisation of climate change impacts.</a> 4 pp. Sent to the Ministry of Environment and Spatial Planning in October 2022.
 * [SLO] Media coverage: <a href="https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/">Delo - Sobotna Priloga</a>.
 
 [SLO] <b>Boljka, L.</b>, Ž. Zaplotnik, A. Slameršak, N. Črnivec, 2020: <a href="https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view?usp=sharing">Comments and suggestions on the draft of the Slovenian long-term climate change strategy</a>. <i>A letter to the Slovenian Ministry for the Environment</i>, 2 pp.
