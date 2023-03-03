@@ -11,6 +11,7 @@ author_profile: true
 
 <b><font color="teal">Columns/Commentaries for Finance Manager</font></b>
 
+* Feb 2023: <a href="https://manager.finance.si/9008659/Kako-uporabne-so-%3E%3Edolgorocne"> How useful are "long-term" predictions?</a>
 * Nov 2022: <a href="https://manager.finance.si/9005581/Bo-v-prihodnje-vec-vdorov-hladnega-zraka-kot-do-zdaj">Will cold extremes become more frequent in the future?</a>
 * Sep 2022: <a href="https://manager.finance.si/9003787/Zakaj-so-vrocinski-valovi-vse-pogostejsi-in-zakaj-je-treba-ukrepati-takoj">Why have heat waves become more frequent and why should we take action?</a>
 * Mar 2022: <a href="https://manager.finance.si/8998308/Jedrska-zima">Nuclear winter</a> 
