@@ -47,6 +47,7 @@ Skills
 
 Awards, Prizes & Certificates
 ======
+* May 2022: Received "Certificate of Completion" for successfully completing the "MOOC Machine Learning in Weather and Climate" course provided by ECMWF. 
 * Dec 2022: Received volunteer appreciation certificate by society of Slovenian community educated abroad for work as a member of Scandinavia local committee.
 * Jun 2022: Awarded the <a href="https://www.rmets.org/journal-editors-awards-2021">Quarterly Journal Prize Reviewer’s Certificate</a> for 2021 by the Royal Meteorological Society. [<a href="https://www.rmets.org/news/royal-meteorological-society-awards-and-prizes-2021-winners">news story</a>]
 * Jul 2021: Received the AGU 2020 <a href="https://eos.org/agu-news/in-appreciation-of-agus-outstanding-reviewers-of-2020">Editors' Citation for Excellence in Refereeing for JGR-Atmospheres</a>.
