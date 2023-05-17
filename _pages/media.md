@@ -11,7 +11,7 @@ author_profile: true
 
 <b><font color="teal">Columns/Commentaries for Finance Manager</font></b>
 
-* Apr/May 2023: <a href="https://manager.finance.si/9012734/Kaj-se-je-zgodilo-z-ozonsko-luknjo">What happenned to Ozone Hole?</a>
+* May 2023: <a href="https://manager.finance.si/9012734/Kaj-se-je-zgodilo-z-ozonsko-luknjo">What happenned to Ozone Hole?</a>
 * Feb 2023: <a href="https://manager.finance.si/9008659/Kako-uporabne-so-%3E%3Edolgorocne"> How useful are "long-term" predictions?</a>
 * Nov 2022: <a href="https://manager.finance.si/9005581/Bo-v-prihodnje-vec-vdorov-hladnega-zraka-kot-do-zdaj">Will cold extremes become more frequent in the future?</a>
 * Sep 2022: <a href="https://manager.finance.si/9003787/Zakaj-so-vrocinski-valovi-vse-pogostejsi-in-zakaj-je-treba-ukrepati-takoj">Why have heat waves become more frequent and why should we take action?</a>
@@ -54,7 +54,7 @@ author_profile: true
 <b><font color="teal">Other Media</font></b>
 
 <!-- * Apr 2022: Interview for Novinarji.si on ozone hole (together with Ž. Zaplotnik). -->
-* May 2023: Interview about <a href="https://prvi.rtvslo.si/podkast/eppur-si-muove-in-vendar-se-vrti/2688377/174956058">the role of ocean in the climate system</a> for Radio Slovenija.
+* May 2023: Interview about <a href="https://prvi.rtvslo.si/podkast/eppur-si-muove-in-vendar-se-vrti/2688377/174956058">the role of ocean in the climate system</a> for Radio Slovenija (Eppur si muove - In vendar se vrti).
 * Feb 2023: Interview about climate variability and change for Magazine Jana.
 * Jan 2023: Interview about <a href="https://topjob.finance.si/9006688/Meteorologinja-ki-na-Norveskem-raziskuje-valove-v-atmosferi">my work</a> for Finance Manager.
 * Nov 2022: A comment on COP27 expectations for magazine Jana.
