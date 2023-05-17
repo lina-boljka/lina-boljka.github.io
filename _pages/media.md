@@ -54,7 +54,7 @@ author_profile: true
 <b><font color="teal">Other Media</font></b>
 
 <!-- * Apr 2022: Interview for Novinarji.si on ozone hole (together with Ž. Zaplotnik). -->
-* Feb 2023: Interview about climate variability for Radio Slovenija.
+* May 2023: Interview about <a href="https://prvi.rtvslo.si/podkast/eppur-si-muove-in-vendar-se-vrti/2688377/174956058">the role of ocean in the climate system</a> for Radio Slovenija.
 * Feb 2023: Interview about climate variability and change for Magazine Jana.
 * Jan 2023: Interview about <a href="https://topjob.finance.si/9006688/Meteorologinja-ki-na-Norveskem-raziskuje-valove-v-atmosferi">my work</a> for Finance Manager.
 * Nov 2022: A comment on COP27 expectations for magazine Jana.
