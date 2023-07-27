@@ -22,7 +22,7 @@ author_profile: true
 <b><font color="teal">Popular scientific talks</font></b>
 
 <ul>
-   <li> Apr 2023: [SLO] 'Arctic amplification and cold extremes' (invited talk), Slovenian Meteorological Society (Slovenian Environment Agency, Ljubljana, Slovenia). <a href="https://drive.google.com/file/d/1_ljYcj8SgLtFCFSrTDAMzzNNpxAr-QrV/view?usp=sharing">slides</a>, <a href="...">video</a></li>
+   <li> Apr 2023: [SLO] 'Arctic amplification and cold extremes' (invited talk), Slovenian Meteorological Society (Slovenian Environment Agency, Ljubljana, Slovenia). <a href="https://drive.google.com/file/d/1_ljYcj8SgLtFCFSrTDAMzzNNpxAr-QrV/view?usp=sharing">slides</a>
   
   <li> Dec 2022: [SLO] 'Variability of the  climate system on multidecadal timescales' (invited talk), Society of Slovenians educated abroad Simposium (Zoom Webinar). <a href="https://drive.google.com/file/d/1yxvtZCZsj3yoz11-3MLUBNzi-qr6HIu7/view?usp=sharing">slides</a>, <a href="https://www.youtube.com/watch?v=VmXpTefYQoI">video of the whole panel</a></li>
   
