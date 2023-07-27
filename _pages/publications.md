@@ -28,6 +28,7 @@ author_profile: true
 [ENG] Pikovnik, M., Ž. Zaplotnik, <b>L. Boljka</b>, and N. Žagar, 2022: <a href="https://wcd.copernicus.org/articles/3/625/2022/">Metrics of the Hadley circulation strength and associated circulation trends</a>. <i>Weather Clim. Dynam.</i>,  3, 625–644. [<a href="https://github.com/zaplotnik/Hadley-cell-strength">Code for Hadley Cell Indices</a>]
 
 [ENG] Zaplotnik, Ž., M. Pikovnik, <b>L. Boljka</b>, 2022: <a href="https://doi.org/10.1175/JCLI-D-21-0204.1">Recent Hadley Circulation Strengthening: A Trend or Multidecadal Variability?</a> <i>J. Climate</i>, 35, 4157-4176. [<a href="https://github.com/mpikovnik/Evaluating-contributions-to-global-Hadley-cell-using-Kuo-Eliassen-equation">Code for Kuo-Eliassen Equation</a>]
+* Corrigendum: Pikovnik, M., Ž. Zaplotnik, and L. Boljka, 2023: <a href="https://journals.ametsoc.org/view/journals/clim/36/16/JCLI-D-23-0381.1.xml">Corrigendum.</a> J. Climate, 36, 5681–5682.  
 
 <b><font color="slateblue">2021</font></b>
 
