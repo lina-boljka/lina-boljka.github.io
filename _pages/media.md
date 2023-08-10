@@ -11,6 +11,7 @@ author_profile: true
 
 <b><font color="teal">Columns/Commentaries for Finance Manager</font></b>
 
+* Aug 2023: <a href="https://manager.finance.si/...">Are we close to reaching tipping points in the climate system?</a>
 * May 2023: <a href="https://manager.finance.si/9012734/Kaj-se-je-zgodilo-z-ozonsko-luknjo">What happenned to Ozone Hole?</a>
 * Feb 2023: <a href="https://manager.finance.si/9008659/Kako-uporabne-so-%3E%3Edolgorocne"> How useful are "long-term" predictions?</a>
 * Nov 2022: <a href="https://manager.finance.si/9005581/Bo-v-prihodnje-vec-vdorov-hladnega-zraka-kot-do-zdaj">Will cold extremes become more frequent in the future?</a>
