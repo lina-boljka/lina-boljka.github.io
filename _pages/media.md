@@ -11,7 +11,7 @@ author_profile: true
 
 <b><font color="teal">Columns/Commentaries for Finance Manager</font></b>
 
-* Aug 2023: <a href="https://manager.finance.si/...">Are we close to reaching tipping points in the climate system?</a>
+* Aug 2023: <a href="https://manager.finance.si/manager/se-blizamo-tockam-preloma-v-podnebnem-sistemu/a/9015718">Are we nearing tipping points in the climate system?</a>
 * May 2023: <a href="https://manager.finance.si/9012734/Kaj-se-je-zgodilo-z-ozonsko-luknjo">What happenned to Ozone Hole?</a>
 * Feb 2023: <a href="https://manager.finance.si/9008659/Kako-uporabne-so-%3E%3Edolgorocne"> How useful are "long-term" predictions?</a>
 * Nov 2022: <a href="https://manager.finance.si/9005581/Bo-v-prihodnje-vec-vdorov-hladnega-zraka-kot-do-zdaj">Will cold extremes become more frequent in the future?</a>
@@ -22,15 +22,13 @@ author_profile: true
 
 <b><font color="teal">Popular scientific talks</font></b>
 
-<ul>
-   <li> Apr 2023: [SLO] 'Arctic amplification and cold extremes' (invited talk), Slovenian Meteorological Society (Slovenian Environment Agency, Ljubljana, Slovenia). <a href="https://drive.google.com/file/d/1_ljYcj8SgLtFCFSrTDAMzzNNpxAr-QrV/view?usp=sharing">slides</a>
+* Apr 2023: [SLO] 'Arctic amplification and cold extremes' (invited talk), Slovenian Meteorological Society (Slovenian Environment Agency, Ljubljana, Slovenia). <a href="https://drive.google.com/file/d/1_ljYcj8SgLtFCFSrTDAMzzNNpxAr-QrV/view?usp=sharing">slides</a>
   
-  <li> Dec 2022: [SLO] 'Variability of the  climate system on multidecadal timescales' (invited talk), Society of Slovenians educated abroad Simposium (Webinar). <a href="https://drive.google.com/file/d/1yxvtZCZsj3yoz11-3MLUBNzi-qr6HIu7/view?usp=sharing">slides</a>, <a href="https://www.youtube.com/watch?v=VmXpTefYQoI">video of the whole panel</a></li>
+* Dec 2022: [SLO] 'Variability of the  climate system on multidecadal timescales' (invited talk), Society of Slovenians educated abroad Simposium (Webinar). <a href="https://drive.google.com/file/d/1yxvtZCZsj3yoz11-3MLUBNzi-qr6HIu7/view?usp=sharing">slides</a>, <a href="https://www.youtube.com/watch?v=VmXpTefYQoI">video of the whole panel</a>
   
-  <li> Jul 2020: [SLO] ‘Climate variability vs climate change’ (invited popular scientific talk), Society of Slovenians educated abroad (Webinar). <a href="https://drive.google.com/file/d/1VGxcQkaw6k14MY3SZIDPEI6MiYwkDcxd/view?usp=sharing">slides</a>, <a href="https://www.drustvovtis.si/si/blog-clanki/2015/10/15/ramen-fdlra-lbr2z-z2a5w-jgs4c-cjxz3-4gkp4">event summary,</a> <a href="https://www.youtube.com/watch?v=gvVdZWX2DKM&t=219sTrije">event video.</a> </li> 
+* Jul 2020: [SLO] ‘Climate variability vs climate change’ (invited popular scientific talk), Society of Slovenians educated abroad (Webinar). <a href="https://drive.google.com/file/d/1VGxcQkaw6k14MY3SZIDPEI6MiYwkDcxd/view?usp=sharing">slides</a>, <a href="https://www.drustvovtis.si/si/blog-clanki/2015/10/15/ramen-fdlra-lbr2z-z2a5w-jgs4c-cjxz3-4gkp4">event summary,</a> <a href="https://www.youtube.com/watch?v=gvVdZWX2DKM&t=219sTrije">event video.</a> 
   
-  <li> Feb 2020: [SLO] ‘Variability of the climate system’ (invited popular scientific talk), House of Experiments (Ljubljana, Slovenia). <a href="https://drive.google.com/open?id=1tEyJrT-_p2mtKdrwRftDeX9QhDnU2UVj">slides</a> </li> 
-</ul>
+* Feb 2020: [SLO] ‘Variability of the climate system’ (invited popular scientific talk), House of Experiments (Ljubljana, Slovenia). <a href="https://drive.google.com/open?id=1tEyJrT-_p2mtKdrwRftDeX9QhDnU2UVj">slides</a> 
 
 
 <b><font color="teal">Publications Relevant for the Slovenian Government</font></b>
