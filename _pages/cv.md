@@ -13,7 +13,7 @@ Work experience
 ======
 * Autumn 2020 - Autumn 2023: Researcher / Postdoctoral Fellow
   * University of Bergen, Geophysical Institute & Bjerknes Centre for Climate Research 
-  * Duties included: Analysing reanalysis, and climate model data to better understand climate variability and its role in long-term prediction (summertime blocking, Hadley cell, El Niño Southern Oscillation, Atlantic multidecadal variability, teleconnections). Additionally, I ran model experiments to better understand model biases in summertime atmospheric circulation. @Bjerknes Centre Prediction Unit @Climate Futures @Fast Track Initiative
+  * Duties included: Analysing reanalysis, and climate model data to better understand climate variability and its role in long-term prediction (summertime blocking, Hadley cell, El Niño Southern Oscillation, Atlantic multidecadal variability, teleconnections). Additionally, I ran model experiments to better understand model biases in summertime atmospheric circulation. @Bjerknes Centre Prediction Unit @Climate Futures @BCCR Fast Track Initiative
   * Advisors: Dr. Nour-Eddine Omrani, Prof. Noel S. Keenlyside 
 
 * Autumn 2018 - Autumn 2020: Postdoctoral Fellow
