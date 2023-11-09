@@ -11,6 +11,7 @@ author_profile: true
 
 <b><font color="teal">Columns/Commentaries for Finance Manager</font></b>
 
+* Nov 2023: <a href="https://www.finance.si/manager/o-izzivih-geoinzeniringa-v-boju-proti-podnebnim-spremembam/a/9018281">On the challenges with geoengineering in fight against climate change</a>
 * Aug 2023: <a href="https://manager.finance.si/manager/se-blizamo-tockam-preloma-v-podnebnem-sistemu/a/9015718">Are we nearing the tipping points of the climate system?</a>
 * May 2023: <a href="https://manager.finance.si/9012734/Kaj-se-je-zgodilo-z-ozonsko-luknjo">What happenned to Ozone Hole?</a>
 * Feb 2023: <a href="https://manager.finance.si/9008659/Kako-uporabne-so-%3E%3Edolgorocne"> How useful are "long-term" predictions?</a>
