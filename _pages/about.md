@@ -14,6 +14,6 @@ Before leaving academia my research focused on climate dynamics, e.g., ocean-atm
 
 For more details on my past work see my blog posts, publications, and outreach. 
 
-For any questions contact me via Direct Message on <a href="https://twitter.com/LBoljka">Twitter/X</a>, <a href="https://www.linkedin.com/in/lina-boljka-2b068483/">LinkedIn</a> or <a href="https://www.researchgate.net/profile/Lina-Boljka">ResearchGate</a>. 
+For any questions contact me via Direct Message on <a href="https://twitter.com/LBoljka">Twitter/X</a>, <a href="https://www.linkedin.com/in/lina-boljka-2b068483/">LinkedIn</a> or <a href="https://www.researchgate.net/profile/Lina-Boljka">ResearchGate</a>. Unfortunately, I can no longer respond to media requests. 
 
 
