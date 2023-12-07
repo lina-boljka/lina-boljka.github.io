@@ -17,7 +17,9 @@ author_profile: true
 
 <b><font color="slateblue">Submitted/In review</font></b>
 
-<b><font color="slateblue">2022</font></b>
+N/A
+
+<b><font color="slateblue">2023</font></b>
 
 [ENG] <b>Boljka, L.</b>, N.-E. Omrani, and N. S. Keenlyside, 2023: <a href="https://wcd.copernicus.org/articles/4/1087/2023/">Identifying quasi-periodic variability using multivariate empirical mode decomposition: a case of the tropical Pacific.</a> <i>Weather Clim. Dynam., 4, 1087–1109.</i>
 
