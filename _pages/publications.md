@@ -68,7 +68,7 @@ N/A
 
 <!--<b><font color="teal">Submitted/In review</font></b>-->
 
-<i>For more publications in Slovenian see the Outreach tab!</i>
+<i>For more publications in Slovenian see the <a href="https://lina-boljka.github.io/media/">Outreach</a> tab!</i>
 
 <b><font color="teal">2020</font></b>
 
