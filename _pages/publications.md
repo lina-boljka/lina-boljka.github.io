@@ -19,6 +19,10 @@ author_profile: true
 
 N/A
 
+<b><font color="slateblue">2024</font></b>
+
+[ENG] <b>Boljka, L.</b>, Bethke, I., Tao, D., and Li, C. , 2024: <a href="https://doi.org/10.1002/asl.1272">Upstream influence of midlatitude jet stream biases in boreal summer.</a> <i>Atmospheric Science Letters, 25(12), e1272.</i>
+
 <b><font color="slateblue">2023</font></b>
 
 [ENG] <b>Boljka, L.</b>, N.-E. Omrani, and N. S. Keenlyside, 2023: <a href="https://wcd.copernicus.org/articles/4/1087/2023/">Identifying quasi-periodic variability using multivariate empirical mode decomposition: a case of the tropical Pacific.</a> <i>Weather Clim. Dynam., 4, 1087–1109.</i>
