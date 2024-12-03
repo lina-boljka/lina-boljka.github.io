@@ -21,7 +21,7 @@ N/A
 
 <b><font color="slateblue">2024</font></b>
 
-[ENG] <b>Boljka, L.</b>, Bethke, I., Tao, D., and Li, C. , 2024: <a href="https://doi.org/10.1002/asl.1272">Upstream influence of midlatitude jet stream biases in boreal summer.</a> <i>Atmospheric Science Letters</i>, 25(12), e1272.
+[ENG] <b>Boljka, L.</b>, I. Bethke, D. Tao, and C. Li , 2024: <a href="https://doi.org/10.1002/asl.1272">Upstream influence of midlatitude jet stream biases in boreal summer.</a> <i>Atmospheric Science Letters</i>, 25(12), e1272.
 
 <b><font color="slateblue">2023</font></b>
 
