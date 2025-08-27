@@ -11,8 +11,9 @@ redirect_from:
 
 Work experience
 ======
-* Autumn 2023 - present: Weather Associate
+* Autumn 2023 - Spring 2025: Weather Associate
   * Citadel Commodities
+  * Non-compete period: Spring 2025 - Spring 2026
 
 * Autumn 2020 - Autumn 2023: Researcher / Postdoctoral Fellow
   * University of Bergen, Geophysical Institute & Bjerknes Centre for Climate Research 
