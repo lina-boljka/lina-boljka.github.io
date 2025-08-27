@@ -78,6 +78,6 @@ N/A
 
 <b><font color="teal">2014</font></b>
 
-[SLO] Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="https://drive.google.com/open?id=1USfRRZ_D0cyPFsfiJXn20MiskLSp4-1Y">Climate Change in Slovenia</a>. Governmental report, 18 pp.
+[SLO] Dolinar, M., G. Vertačnik, R. Bertalanič, D. Dvoršek, M. Nadbath, D. Gartner, M. Klančar, <b>L. Boljka</b>, M. Lanjšček, and D. Kolarič, 2014: <a href="https://drive.google.com/file/d/1USfRRZ_D0cyPFsfiJXn20MiskLSp4-1Y/view?usp=share_link">Climate Change in Slovenia</a>. Governmental report, 18 pp.
 
 
