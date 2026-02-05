@@ -84,7 +84,7 @@ Memberships & Professional Activities
 * Spring 2018 - present: Member of the Young Earth System Scientist Community (YESS).
 * Spring 2017: Member of the organising committee for the PhD visiting scientist (University of Reading).
 * September 2015 - June 2016: Organised Large-scale dynamics weekly group meetings (University of Reading).
-* Aug 2014 - Feb 2026: Member of the Slovenian Meteorological Society (SMD).
+* August 2014 - February 2026: Member of the Slovenian Meteorological Society (SMD).
 
 
 <!--Collaborations (external)
