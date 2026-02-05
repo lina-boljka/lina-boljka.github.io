@@ -71,7 +71,7 @@ Funding (projects, travel grants, studentships)
 * Oct 2012 - Oct 2013: Awarded studentship for MSc degree by The Slovenian Scholarship Fund Ad Futura. <!--(~18kEUR tot)-->
 * Sep 2006 - Jul 2012: Awarded studentship for secondary school and undergraduate degree by The Municipality of Ljubljana Fund for talented students. <!--(~180EUR pm)-->
 
-Memberships & Professional Activities (projects, travel grants, studentships)
+Memberships & Professional Activities 
 ======
 * January 2023 - January 2024: Member of the European Geophysical Union (EGU).
 * November 2022 - October 2023: Organizing events at Geophysical Institute & VTIS.
