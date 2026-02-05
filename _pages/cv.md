@@ -71,6 +71,20 @@ Funding (projects, travel grants, studentships)
 * Oct 2012 - Oct 2013: Awarded studentship for MSc degree by The Slovenian Scholarship Fund Ad Futura. <!--(~18kEUR tot)-->
 * Sep 2006 - Jul 2012: Awarded studentship for secondary school and undergraduate degree by The Municipality of Ljubljana Fund for talented students. <!--(~180EUR pm)-->
 
+Memberships & Professional Activities (projects, travel grants, studentships)
+======
+* January 2023 - January 2024: Member of the European Geophysical Union (EGU).
+* November 2022 - October 2023: Organizing events at Geophysical Institute & VTIS.
+* June 2022: Session chair at conferences (23rd conference on Atmosphere and Ocean Fluid Dynamics and 2022 Storm tracks Workshop).
+* Feb 2022 - Oct 2023: Member of the board for Slovenians in Scandinavia at VTIS. Oct 2021 Oct 2023 Columnist for Finance Manager (Slovenian finance magazine). 
+* October 2020 - October 2022: Member of several hiring committees at the University of Bergen. 
+* August 2019 - present: Member of the Society of the Slovenians educated abroad (VTIS).
+* Summer 2018 - Autumn 2023: Reviewer for various journals & funding agencies: National Science Foundation, npj Climate and Atmospheric Science, One Earth, Journal of Geophysical Research: Atmospheres, Journal of the Atmospheric Sciences, Journal of Climate, Geophysical Research Letters, Quarterly Journal of the Royal Meteorological Society, Climate Dynamics, and others.
+* Spring 2018 - present: Member of the Young Earth System Scientist Community (YESS).
+* Spring 2017: Member of the organising committee for the PhD visiting scientist (Uni versity of Reading).
+* September 2015 - June 2016: Organised Large-scale dynamics weekly group meetings (University of Reading).
+* Aug 2014 - Feb 2026: Member of the Slovenian Meteorological Society (SMD).
+
 
 <!--Collaborations (external)
 ======
